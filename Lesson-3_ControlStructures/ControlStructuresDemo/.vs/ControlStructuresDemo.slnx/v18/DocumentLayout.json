@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafat\\OneDrive\\Desktop\\Lesson-3_ControlStructures\\ControlStructuresDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E519DD-B9D6-494F-9207-BF717C705010}|ControlStructuresDemo\\ControlStructuresDemo.csproj|c:\\users\\rafat\\onedrive\\desktop\\lesson-3_controlstructures\\controlstructuresdemo\\controlstructuresdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E519DD-B9D6-494F-9207-BF717C705010}|ControlStructuresDemo\\ControlStructuresDemo.csproj|solutionrelative:controlstructuresdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rafat\\OneDrive\\Desktop\\Lesson-3_ControlStructures\\ControlStructuresDemo\\ControlStructuresDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ControlStructuresDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\rafat\\OneDrive\\Desktop\\Lesson-3_ControlStructures\\ControlStructuresDemo\\ControlStructuresDemo\\Program.cs",
+              "RelativeToolTip": "ControlStructuresDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T19:26:49.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
