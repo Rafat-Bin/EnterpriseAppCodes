@@ -1,0 +1,86 @@
+##############################
+# Visual Studio / .NET
+##############################
+
+.vs/
+bin/
+obj/
+TestResults/
+artifacts/
+
+##############################
+# User-specific files
+##############################
+
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+##############################
+# Build / publish output
+##############################
+
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+publish/
+
+##############################
+# Logs & temp
+##############################
+
+*.log
+*.tmp
+*.bak
+
+##############################
+# NuGet
+##############################
+
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+
+##############################
+# VS Code (allow settings if you want)
+##############################
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+##############################
+# MAUI / Mobile
+##############################
+
+*.keystore
+*.jks
+*.aab
+*.apk
+*.ipa
+*.app
+
+##############################
+# OS-specific
+##############################
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+##############################
+# Secrets (never commit)
+##############################
+
+*.pfx
+*.cer
+*.key
+appsettings.*.json
+!appsettings.json
