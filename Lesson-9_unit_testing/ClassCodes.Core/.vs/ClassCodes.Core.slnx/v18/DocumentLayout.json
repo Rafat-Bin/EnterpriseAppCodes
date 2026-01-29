@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafat\\OneDrive\\Desktop\\SDEV2301-Codes\\Lesson-9_unit_testing\\ClassCodes.Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68C6D54B-0647-473F-8FA8-E4E0D4504DF3}|ClassCode.Tests\\ClassCode.Tests.csproj|c:\\users\\rafat\\onedrive\\desktop\\sdev2301-codes\\lesson-9_unit_testing\\classcodes.core\\classcode.tests\\codes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C6D54B-0647-473F-8FA8-E4E0D4504DF3}|ClassCode.Tests\\ClassCode.Tests.csproj|solutionrelative:classcode.tests\\codes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892FD1A3-280F-465C-A82D-9893088A2C5B}|ClassCodes.Core\\ClassCodes.Core.csproj|c:\\users\\rafat\\onedrive\\desktop\\sdev2301-codes\\lesson-9_unit_testing\\classcodes.core\\classcodes.core\\codestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892FD1A3-280F-465C-A82D-9893088A2C5B}|ClassCodes.Core\\ClassCodes.Core.csproj|solutionrelative:classcodes.core\\codestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CodesTests.cs",
+              "DocumentMoniker": "C:\\Users\\rafat\\OneDrive\\Desktop\\SDEV2301-Codes\\Lesson-9_unit_testing\\ClassCodes.Core\\ClassCodes.Core\\CodesTests.cs",
+              "RelativeDocumentMoniker": "ClassCodes.Core\\CodesTests.cs",
+              "ToolTip": "C:\\Users\\rafat\\OneDrive\\Desktop\\SDEV2301-Codes\\Lesson-9_unit_testing\\ClassCodes.Core\\ClassCodes.Core\\CodesTests.cs",
+              "RelativeToolTip": "ClassCodes.Core\\CodesTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T19:42:04.491Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Codes.cs",
+              "DocumentMoniker": "C:\\Users\\rafat\\OneDrive\\Desktop\\SDEV2301-Codes\\Lesson-9_unit_testing\\ClassCodes.Core\\ClassCode.Tests\\Codes.cs",
+              "RelativeDocumentMoniker": "ClassCode.Tests\\Codes.cs",
+              "ToolTip": "C:\\Users\\rafat\\OneDrive\\Desktop\\SDEV2301-Codes\\Lesson-9_unit_testing\\ClassCodes.Core\\ClassCode.Tests\\Codes.cs",
+              "RelativeToolTip": "ClassCode.Tests\\Codes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOoDAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T19:42:35.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
