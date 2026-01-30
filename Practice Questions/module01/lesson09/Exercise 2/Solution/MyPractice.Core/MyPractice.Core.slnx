@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MyPractice.Core/MyPractice.Core.csproj" />
+  <Project Path="MyPractice.Tests/MyPractice.Tests.csproj" />
+</Solution>

@@ -1,134 +1,4 @@
-﻿/*
-
-============================================================
-
-HOW TO RUN THIS CODE
-
-============================================================
-
-
-
-This file contains BOTH:
-
-1) Class Library code (Lesson09.Core)
-
-2) Unit Tests using xUnit (Lesson09.Tests)
-
-
-
-Because of this, the code CANNOT be run as a single project.
-
-
-
-------------------------------------------------------------
-
-CORRECT PROJECT SETUP
-
-------------------------------------------------------------
-
-
-
-You must create TWO separate projects in the same solution:
-
-
-
-1) Class Library Project
-
-   - Project Type: Class Library (.NET)
-
-   - Project Name: Lesson09.Core
-
-   - Put ALL production classes here:
-
-     Calculator, Wallet, ScoreCounter, ParkingMeter, Temperature
-
-
-
-2) xUnit Test Project
-
-   - Project Type: xUnit Test Project (.NET)
-
-   - Project Name: Lesson09.Tests
-
-   - Add a reference to Lesson09.Core
-
-   - Put ALL test classes here
-
-
-
-------------------------------------------------------------
-
-HOW TO TEST
-
-------------------------------------------------------------
-
-
-
-- Open Test Explorer in Visual Studio
-
-- Build the solution
-
-- Click "Run All Tests"
-
-
-
-------------------------------------------------------------
-
-IF YOU DON'T WANT TO READ ALL THIS 
-
-------------------------------------------------------------
-
-
-
-If you remember how to do this from our lecture:
-
-- Create a Class Library
-
-- Create an xUnit Test Project
-
-- Add project reference
-
-- Run tests from Test Explorer
-
-
-
-It is EXACTLY the same setup we used in class.
-
-
-
-------------------------------------------------------------
-
-IMPORTANT NOTES
-
-------------------------------------------------------------
-
-
-
-- Do NOT mix test code and class code in the same project
-
-- The Lesson09.Tests project depends on Lesson09.Core
-
-- Tests will fail if the Core project is not referenced
-
-- Each example demonstrates:
-
-  * Normal behavior testing
-
-  * Exception testing
-
-  * When to use Fact vs Theory
-
-
-
-This file shows ALL examples together ONLY for learning purposes.
-
-============================================================
-
-*/
-
-
-
-
+﻿
 
 //-----Example 1-------
 
@@ -1000,4 +870,143 @@ namespace Lesson09.Tests
 
     }
 
+}
+
+//------ Example 6 ------
+
+// Problem Statement
+
+// Create a class called Product that represents an item in a store.
+
+// The product should store a name and a price.
+
+// The name should be stored using a property with get and set.
+
+// The price should be stored using a property with get and set.
+
+// The name must not be null, empty, or whitespace.
+
+// The price must be greater than zero.
+
+// If an invalid name or price is provided, an exception should be thrown.
+
+// All validation logic should be handled inside the class.
+
+// The class should not allow direct access to the internal fields.
+
+//------ Example 6 ------
+
+
+
+namespace Lesson09.Core
+{
+    // Represents an item in a store
+    public class Product
+    {
+        // Private fields to store data
+        private string _name;
+        private decimal _price;
+
+        // Constructor initializes the product
+        public Product(string name, decimal price)
+        {
+            Name = name;     // Uses setter validation
+            Price = price;   // Uses setter validation
+        }
+
+        // Gets or sets the product name
+        public string Name
+        {
+            get { return _name; }
+            set
+            {
+                if (string.IsNullOrWhiteSpace(value))
+                {
+                    throw new ArgumentException(
+                        "Product name cannot be null or empty"
+                    );
+                }
+
+                _name = value;
+            }
+        }
+
+        // Gets or sets the product price
+        public decimal Price
+        {
+            get { return _price; }
+            set
+            {
+                if (value <= 0)
+                {
+                    throw new ArgumentOutOfRangeException(
+                        nameof(value),
+                        "Price must be greater than zero"
+                    );
+                }
+
+                _price = value;
+            }
+        }
+    }
+}
+
+
+using Xunit;
+using Lesson09.Core;
+
+namespace Lesson09.Tests
+{
+    public class ProductTests
+    {
+        [Fact]
+        public void SettingValidName_UpdatesName()
+        {
+            // Arrange
+            var product = new Product("Book", 10);
+
+            // Act
+            product.Name = "Notebook";
+
+            // Assert
+            Assert.Equal("Notebook", product.Name);
+        }
+
+        [Fact]
+        public void SettingValidPrice_UpdatesPrice()
+        {
+            // Arrange
+            var product = new Product("Pen", 2);
+
+            // Act
+            product.Price = 5;
+
+            // Assert
+            Assert.Equal(5, product.Price);
+        }
+
+        [Fact]
+        public void SettingInvalidName_ThrowsException()
+        {
+            // Arrange
+            var product = new Product("Item", 10);
+
+            // Act & Assert
+            Assert.Throws<ArgumentException>(() =>
+                product.Name = ""
+            );
+        }
+
+        [Fact]
+        public void SettingInvalidPrice_ThrowsException()
+        {
+            // Arrange
+            var product = new Product("Item", 10);
+
+            // Act & Assert
+            Assert.Throws<ArgumentOutOfRangeException>(() =>
+                product.Price = -3
+            );
+        }
+    }
 }
