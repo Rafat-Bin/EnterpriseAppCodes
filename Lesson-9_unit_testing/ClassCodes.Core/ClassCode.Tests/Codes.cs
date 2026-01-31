@@ -962,12 +962,10 @@ namespace Lesson09.Tests
         [Fact]
         public void SettingValidName_UpdatesName()
         {
-            // Arrange
+            // Arrange & Act
             var product = new Product("Book", 10);
 
-            // Act
-            product.Name = "Notebook";
-
+         
             // Assert
             Assert.Equal("Notebook", product.Name);
         }
@@ -975,37 +973,29 @@ namespace Lesson09.Tests
         [Fact]
         public void SettingValidPrice_UpdatesPrice()
         {
-            // Arrange
+            // Arrange & 
             var product = new Product("Pen", 2);
 
-            // Act
-            product.Price = 5;
 
             // Assert
             Assert.Equal(5, product.Price);
         }
 
         [Fact]
-        public void SettingInvalidName_ThrowsException()
+        public void Constructor_InvalidName_ThrowsException()
         {
-            // Arrange
-            var product = new Product("Item", 10);
-
             // Act & Assert
             Assert.Throws<ArgumentException>(() =>
-                product.Name = ""
+                new Product("", 10)
             );
         }
 
         [Fact]
-        public void SettingInvalidPrice_ThrowsException()
+        public void Constructor_InvalidPrice_ThrowsException()
         {
-            // Arrange
-            var product = new Product("Item", 10);
-
             // Act & Assert
             Assert.Throws<ArgumentOutOfRangeException>(() =>
-                product.Price = -3
+                new Product("Item", -3)
             );
         }
     }

@@ -31,7 +31,8 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-29T19:42:04.491Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -49,7 +50,7 @@
               "RelativeDocumentMoniker": "ClassCode.Tests\\Codes.cs",
               "ToolTip": "C:\\Users\\rafat\\OneDrive\\Desktop\\SDEV2301-Codes\\Lesson-9_unit_testing\\ClassCodes.Core\\ClassCode.Tests\\Codes.cs",
               "RelativeToolTip": "ClassCode.Tests\\Codes.cs",
-              "ViewState": "AgIAAD0DAAAAzczMzIwuwLkDAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAANMDAAAADwAAAMAtwOcDAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-29T19:42:35.984Z",
               "EditorCaption": ""

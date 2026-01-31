@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ClassCode.Tests"
+    "\\ClassCode.Tests",
+    "\\ClassCodes.Core"
   ],
   "SelectedNode": "\\ClassCode.Tests\\Codes.cs",
   "PreviewInSolutionExplorer": false
