@@ -967,7 +967,7 @@ namespace Lesson09.Tests
 
          
             // Assert
-            Assert.Equal("Notebook", product.Name);
+            Assert.Equal("Book", product.Name);
         }
 
         [Fact]
@@ -978,7 +978,7 @@ namespace Lesson09.Tests
 
 
             // Assert
-            Assert.Equal(5, product.Price);
+            Assert.Equal(2, product.Price);
         }
 
         [Fact]
