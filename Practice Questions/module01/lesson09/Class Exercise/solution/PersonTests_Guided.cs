@@ -8,10 +8,10 @@ namespace Domain.Tests
         [Fact]
         public void Constructor_ShouldSetProperties_WhenValidInput()
         {
-            var person = new Person("Don", "Welch", "don@example.com");
+            var person = new Person("Don", "Wel", "don@example.com");
 
             Assert.Equal("Don", person.FirstName);
-            Assert.Equal("Welch", person.LastName);
+            Assert.Equal("Wel", person.LastName);
             Assert.Equal("don@example.com", person.Email);
         }
 
@@ -22,7 +22,7 @@ namespace Domain.Tests
         public void Constructor_ShouldThrow_WhenFirstNameInvalid(string firstName)
         {
             Assert.Throws<ArgumentNullException>(() =>
-                new Person(firstName, "Welch", "don@example.com"));
+                new Person(firstName, "Wel", "don@example.com"));
         }
 
         [Theory]
@@ -38,7 +38,7 @@ namespace Domain.Tests
         [Fact]
         public void FirstName_Setter_ShouldUpdateValue()
         {
-            var person = new Person("Don", "Welch", "don@example.com");
+            var person = new Person("Don", "Wel", "don@example.com");
 
             person.FirstName = "Donna";
 
@@ -48,7 +48,7 @@ namespace Domain.Tests
         [Fact]
         public void LastName_Setter_ShouldUpdateValue()
         {
-            var person = new Person("Don", "Welch", "don@example.com");
+            var person = new Person("Don", "Wel", "don@example.com");
 
             person.LastName = "Smith";
 
@@ -58,9 +58,10 @@ namespace Domain.Tests
         [Fact]
         public void FullName_ShouldReturn_LastCommaFirst()
         {
-            var person = new Person("Don", "Welch", "don@example.com");
+            var person = new Person("Don", "Wel", "don@example.com");
 
-            Assert.Equal("Welch, Don", person.FullName);
+            Assert.Equal("Wel, Don", person.FullName);
         }
     }
 }
+
