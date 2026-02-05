@@ -24,7 +24,50 @@ class Program
 }
 
 
+//-------without LINQ
+class Program
+{
+    static void Main()
+    {
+        List<int> numbers = new List<int> { 2, 3, 5, 6 };
 
+        List<int> result = new List<int>();
+
+        foreach (int n in numbers)
+        {
+            if (n > 3)
+            {
+                result.Add(n);
+            }
+        }
+
+        foreach (int n in result)
+        {
+            Console.WriteLine(n);
+        }
+    }
+}
+
+
+/// <summary>
+/// same code with linq
+/// </summary>
+using System.Linq;
+
+class Program
+{
+    static void Main()
+    {
+        List<int> numbers = new List<int> { 2, 3, 5, 6 };
+
+        var result = numbers.Where(n => n > 3);
+
+        foreach (int n in result)
+        {
+            Console.WriteLine(n);
+        }
+    }
+}
 
 
 //Create objects FIRST, then add to list..
@@ -191,11 +234,11 @@ class Program
 
 
 
-//Apply LINQ Where() to Student objects
+using System;
 
+using System.Collections.Generic;
 
-
-using System.Linq; //mandatory
+using System.Linq;
 
 
 
@@ -206,6 +249,8 @@ class Student
     public string Name { get; set; }
 
     public int Marks { get; set; }
+
+    public string Section { get; set; }
 
 }
 
@@ -219,163 +264,69 @@ class Program
 
     {
 
-        // Create list with students
+        // ===============================
+
+        // DATA SOURCE
+
+        // ===============================
+
+
 
         var students = new List<Student>
 
         {
 
-            new Student { Name = "Bin", Marks = 11 },
+            new Student { Name = "Bin",  Marks = 11, Section = "A" },
 
-            new Student { Name = "Ali", Marks = 85 },
+            new Student { Name = "Ali",  Marks = 85, Section = "A" },
 
-            new Student { Name = "Sara", Marks = 72 }
+            new Student { Name = "Sara", Marks = 72, Section = "B" },
+
+            new Student { Name = "Aman", Marks = 85, Section = "B" },
+
+            new Student { Name = "Zara", Marks = 40, Section = "C" },
+
+            new Student { Name = "John", Marks = 65, Section = "C" }
 
         };
 
 
 
+        // ===============================
+
+        // WHERE — METHOD SYNTAX
+
+        // ===============================
 
 
-
-
-        //----------Where--------
-
-
-
-        // LINQ: filter students who passed
 
         var passedStudents = students.Where(s => s.Marks >= 70);
 
-
-
-        // Output
+        Console.WriteLine("\nPassed Students (Method Syntax):");
 
         foreach (var s in passedStudents)
 
-        {
-
-            Console.WriteLine(s.Name + " - " + s.Marks);
+            Console.WriteLine($"{s.Name} - {s.Marks}");
 
 
-
-
-
-
-
-        }
-
-
-
-        //same thing with (query syntax) (SQL-like Structure)
-
-        var passedStudents =
-
-            from s in students
-
-            where s.Mark >= 70
-
-            select s;
-
-        foreach (var name in passedStudents)
-
-
-
-        {
-
-
-
-            Console.WriteLine(name);
-
-
-
-        }
-
-
-
-        //Students who FAILED
 
         var failedStudents = students.Where(s => s.Marks < 40);
 
-
+        Console.WriteLine("\nFailed Students:");
 
         foreach (var s in failedStudents)
 
-        {
-
-            Console.WriteLine(s.Name + " - " + s.Marks);
-
-        }
+            Console.WriteLine($"{s.Name} - {s.Marks}");
 
 
-
-        //Students with marks BETWEEN two values
 
         var averageStudents = students.Where(s => s.Marks >= 40 && s.Marks < 70);
 
-
+        Console.WriteLine("\nAverage Students:");
 
         foreach (var s in averageStudents)
 
-        {
-
-            Console.WriteLine(s.Name + " - " + s.Marks);
-
-        }
-
-
-
-
-
-        //Students whose name starts with a letter
-
-        var sNames = students.Where(s => s.Name.StartsWith("S"));
-
-
-
-        foreach (var s in sNames)
-
-        {
-
-            Console.WriteLine(s.Name + " - " + s.Marks);
-
-        }
-
-
-
-
-
-        //Students whose name length is more than 3
-
-        var longNames = students.Where(s => s.Name.Length > 3);
-
-
-
-        foreach (var s in longNames)
-
-        {
-
-            Console.WriteLine(s.Name + " - " + s.Marks);
-
-        }
-
-
-
-
-
-        //Combine string + number conditions
-
-        var specialStudents = students.Where(s => s.Marks > 70 && s.Name.Contains("a"));
-
-
-
-        foreach (var s in specialStudents)
-
-        {
-
-            Console.WriteLine(s.Name + " - " + s.Marks);
-
-        }
+            Console.WriteLine($"{s.Name} - {s.Marks}");
 
 
 
@@ -383,63 +334,83 @@ class Program
 
 
 
+        // ===============================
+
+        // WHERE — QUERY (SQL) SYNTAX
+
+        // ===============================
 
 
-        // --------------SELECT-----------
+
+        var passedStudentsQuery =
+
+            from s in students
+
+            where s.Marks >= 70
+
+            select s;
 
 
 
-        //Select ONE property
+        Console.WriteLine("\nPassed Students (Query Syntax):");
+
+        foreach (var s in passedStudentsQuery)
+
+            Console.WriteLine($"{s.Name} - {s.Marks}");
+
+
+
+        // ===============================
+
+        // SELECT — METHOD SYNTAX
+
+        // ===============================
+
+
 
         var names = students.Select(s => s.Name);
 
+        Console.WriteLine("\nOnly Names:");
 
-
-        foreach (string name in names)
-
-        {
+        foreach (var name in names)
 
             Console.WriteLine(name);
-
-        }
 
 
 
         var marks = students.Select(s => s.Marks);
 
-
+        Console.WriteLine("\nOnly Marks:");
 
         foreach (var m in marks)
 
-        {
-
             Console.WriteLine(m);
 
-        }
 
-
-
-
-
-        //Select with CALCULATION
 
         var bonusMarks = students.Select(s => s.Marks + 5);
 
-
+        Console.WriteLine("\nMarks With Bonus (+5):");
 
         foreach (var m in bonusMarks)
 
-        {
-
             Console.WriteLine(m);
 
-        }
 
 
 
-        //same thing with (query syntax) (SQL-like Structure)
 
-        var bonusMarks =
+
+
+        // ===============================
+
+        // SELECT — QUERY (SQL) SYNTAX
+
+        // ===============================
+
+
+
+        var bonusMarksQuery =
 
             from s in students
 
@@ -447,39 +418,47 @@ class Program
 
 
 
-        //Select formatted text
+        Console.WriteLine("\nBonus Marks (Query Syntax):");
 
-        var result = students.Select(s => s.Name + " scored " + s.Marks);
+        foreach (var m in bonusMarksQuery)
 
-
-
-        foreach (var r in result)
-
-        {
-
-            Console.WriteLine(r);
-
-        }
+            Console.WriteLine(m);
 
 
 
-        //Where + Select
+        // ===============================
 
-        var passedNames = students.Where(s => s.Marks >= 70).Select(s => s.Name);
+        // WHERE + SELECT — METHOD SYNTAX
+
+        // ===============================
 
 
+
+        var passedNames = students
+
+            .Where(s => s.Marks >= 70)
+
+            .Select(s => s.Name);
+
+
+
+        Console.WriteLine("\nPassed Student Names:");
 
         foreach (var name in passedNames)
 
-        {
-
             Console.WriteLine(name);
 
-        }
 
-        // Where + Select (query syntax)
 
-        var passedNames =
+        // ===============================
+
+        // WHERE + SELECT — QUERY (SQL) SYNTAX
+
+        // ===============================
+
+
+
+        var passedNamesQuery =
 
             from s in students
 
@@ -489,14 +468,245 @@ class Program
 
 
 
-        foreach (var name in passedNames)
+        Console.WriteLine("\nPassed Student Names (Query Syntax):");
+
+        foreach (var name in passedNamesQuery)
+
+            Console.WriteLine(name);
+
+
+
+        // ===============================
+
+        // GROUP BY SECTION
+
+        // ===============================
+
+
+
+        var groupBySection = students.GroupBy(s => s.Section);
+
+        Console.WriteLine("\nGroup By Section:");
+
+
+
+        foreach (var group in groupBySection)
 
         {
 
-            Console.WriteLine(name);
+            Console.WriteLine($"Section {group.Key}");
+
+            foreach (var s in group)
+
+                Console.WriteLine($"   {s.Name} - {s.Marks}");
 
         }
 
 
 
+
+
+        // ===============================
+
+        // ORDER BY — METHOD SYNTAX
+
+        // ===============================
+
+
+
+        var orderByMarks =
+
+            students.OrderBy(s => s.Marks);
+
+
+
+        Console.WriteLine("\nOrder By Marks (Ascending):");
+
+        foreach (var s in orderByMarks)
+
+            Console.WriteLine($"{s.Name} - {s.Marks}");
+
+
+
+        // ===============================
+
+        // ORDER BY DESCENDING
+
+        // ===============================
+
+
+
+        var orderByMarksDesc =
+
+            students.OrderByDescending(s => s.Marks);
+
+
+
+        Console.WriteLine("\nOrder By Marks (Descending):");
+
+        foreach (var s in orderByMarksDesc)
+
+            Console.WriteLine($"{s.Name} - {s.Marks}");
+
+
+
+        // ===============================
+
+        // ORDER BY + THEN BY
+
+        // ===============================
+
+
+
+        var orderByMarksThenName =
+
+            students.OrderByDescending(s => s.Marks)
+
+                    .ThenBy(s => s.Name);
+
+
+
+        Console.WriteLine("\nOrder By Marks DESC, Then By Name ASC:");
+
+        foreach (var s in orderByMarksThenName)
+
+            Console.WriteLine($"{s.Name} - {s.Marks}");
+
+
+
+        // ===============================
+
+        // ORDER BY + THEN BY DESCENDING
+
+        // ===============================
+
+
+
+        var orderBySectionThenMarksDesc =
+
+            students.OrderBy(s => s.Section)
+
+                    .ThenByDescending(s => s.Marks);
+
+
+
+        Console.WriteLine("\nOrder By Section ASC, Then By Marks DESC:");
+
+        foreach (var s in orderBySectionThenMarksDesc)
+
+            Console.WriteLine($"{s.Name} - {s.Marks} - Section {s.Section}");
+
+
+
+
+
+
+
+        // ===============================
+
+        // AGGREGATE FUNCTIONS
+
+        // MIN | MAX | COUNT | AVERAGE
+
+        // ===============================
+
+
+
+        // COUNT
+
+        int totalStudents = students.Count();
+
+        Console.WriteLine($"\nTotal Students: {totalStudents}");
+
+
+
+        // MIN
+
+        int minMarks = students.Min(s => s.Marks);
+
+        Console.WriteLine($"Minimum Marks: {minMarks}");
+
+
+
+        // MAX
+
+        int maxMarks = students.Max(s => s.Marks);
+
+        Console.WriteLine($"Maximum Marks: {maxMarks}");
+
+
+
+        // AVERAGE
+
+        double averageMarks = students.Average(s => s.Marks);
+
+        Console.WriteLine($"Average Marks: {averageMarks}");
+
+
+
+        // ===============================
+
+        // AGGREGATES WITH WHERE
+
+        // ===============================
+
+
+
+        int passedCount = students.Count(s => s.Marks >= 70);
+
+        Console.WriteLine($"\nPassed Students Count: {passedCount}");
+
+
+
+        double passedAverage =
+
+            students.Where(s => s.Marks >= 70)
+
+                    .Average(s => s.Marks);
+
+
+
+        Console.WriteLine($"Average Marks of Passed Students: {passedAverage}");
+
+
+
+        // ===============================
+
+        // AGGREGATES WITH GROUP BY
+
+        // ===============================
+
+
+
+        var sectionStats =
+
+            students.GroupBy(s => s.Section);
+
+
+
+        Console.WriteLine("\nSection-wise Statistics:");
+
+
+
+        foreach (var group in sectionStats)
+
+        {
+
+            Console.WriteLine($"Section {group.Key}");
+
+            Console.WriteLine($"   Count   : {group.Count()}");
+
+            Console.WriteLine($"   Min     : {group.Min(s => s.Marks)}");
+
+            Console.WriteLine($"   Max     : {group.Max(s => s.Marks)}");
+
+            Console.WriteLine($"   Average : {group.Average(s => s.Marks)}");
+
+        }
+
     }
+
+
+
+}
+
