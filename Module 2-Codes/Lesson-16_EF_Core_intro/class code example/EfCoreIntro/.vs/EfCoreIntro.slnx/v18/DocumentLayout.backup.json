@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafat\\OneDrive\\Desktop\\class code example\\EfCoreIntro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{770BC46C-511D-4AA9-87AE-C8FDF040B792}|EfCoreIntro\\EfCoreIntro.csproj|c:\\users\\rafat\\onedrive\\desktop\\class code example\\efcoreintro\\efcoreintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770BC46C-511D-4AA9-87AE-C8FDF040B792}|EfCoreIntro\\EfCoreIntro.csproj|solutionrelative:efcoreintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770BC46C-511D-4AA9-87AE-C8FDF040B792}|EfCoreIntro\\EfCoreIntro.csproj|c:\\users\\rafat\\onedrive\\desktop\\class code example\\efcoreintro\\efcoreintro\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770BC46C-511D-4AA9-87AE-C8FDF040B792}|EfCoreIntro\\EfCoreIntro.csproj|solutionrelative:efcoreintro\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770BC46C-511D-4AA9-87AE-C8FDF040B792}|EfCoreIntro\\EfCoreIntro.csproj|c:\\users\\rafat\\onedrive\\desktop\\class code example\\efcoreintro\\efcoreintro\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770BC46C-511D-4AA9-87AE-C8FDF040B792}|EfCoreIntro\\EfCoreIntro.csproj|solutionrelative:efcoreintro\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rafat\\OneDrive\\Desktop\\class code example\\EfCoreIntro\\EfCoreIntro\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EfCoreIntro\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\rafat\\OneDrive\\Desktop\\class code example\\EfCoreIntro\\EfCoreIntro\\AppDbContext.cs",
+              "RelativeToolTip": "EfCoreIntro\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T23:16:28.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\rafat\\OneDrive\\Desktop\\class code example\\EfCoreIntro\\EfCoreIntro\\Product.cs",
+              "RelativeDocumentMoniker": "EfCoreIntro\\Product.cs",
+              "ToolTip": "C:\\Users\\rafat\\OneDrive\\Desktop\\class code example\\EfCoreIntro\\EfCoreIntro\\Product.cs",
+              "RelativeToolTip": "EfCoreIntro\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T23:14:55.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rafat\\OneDrive\\Desktop\\class code example\\EfCoreIntro\\EfCoreIntro\\Program.cs",
+              "RelativeDocumentMoniker": "EfCoreIntro\\Program.cs",
+              "ToolTip": "C:\\Users\\rafat\\OneDrive\\Desktop\\class code example\\EfCoreIntro\\EfCoreIntro\\Program.cs",
+              "RelativeToolTip": "EfCoreIntro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T23:10:10.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

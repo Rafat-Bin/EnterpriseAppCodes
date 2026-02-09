@@ -1,0 +1,14 @@
+C:\Users\rafat\OneDrive\Desktop\LINQ_with _methods\Linq_methods\Linq_methods\bin\Debug\net10.0\Linq_methods.exe
+C:\Users\rafat\OneDrive\Desktop\LINQ_with _methods\Linq_methods\Linq_methods\bin\Debug\net10.0\Linq_methods.deps.json
+C:\Users\rafat\OneDrive\Desktop\LINQ_with _methods\Linq_methods\Linq_methods\bin\Debug\net10.0\Linq_methods.runtimeconfig.json
+C:\Users\rafat\OneDrive\Desktop\LINQ_with _methods\Linq_methods\Linq_methods\bin\Debug\net10.0\Linq_methods.dll
+C:\Users\rafat\OneDrive\Desktop\LINQ_with _methods\Linq_methods\Linq_methods\bin\Debug\net10.0\Linq_methods.pdb
+C:\Users\rafat\OneDrive\Desktop\LINQ_with _methods\Linq_methods\Linq_methods\obj\Debug\net10.0\Linq_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafat\OneDrive\Desktop\LINQ_with _methods\Linq_methods\Linq_methods\obj\Debug\net10.0\Linq_methods.AssemblyInfoInputs.cache
+C:\Users\rafat\OneDrive\Desktop\LINQ_with _methods\Linq_methods\Linq_methods\obj\Debug\net10.0\Linq_methods.AssemblyInfo.cs
+C:\Users\rafat\OneDrive\Desktop\LINQ_with _methods\Linq_methods\Linq_methods\obj\Debug\net10.0\Linq_methods.csproj.CoreCompileInputs.cache
+C:\Users\rafat\OneDrive\Desktop\LINQ_with _methods\Linq_methods\Linq_methods\obj\Debug\net10.0\Linq_methods.dll
+C:\Users\rafat\OneDrive\Desktop\LINQ_with _methods\Linq_methods\Linq_methods\obj\Debug\net10.0\refint\Linq_methods.dll
+C:\Users\rafat\OneDrive\Desktop\LINQ_with _methods\Linq_methods\Linq_methods\obj\Debug\net10.0\Linq_methods.pdb
+C:\Users\rafat\OneDrive\Desktop\LINQ_with _methods\Linq_methods\Linq_methods\obj\Debug\net10.0\Linq_methods.genruntimeconfig.cache
+C:\Users\rafat\OneDrive\Desktop\LINQ_with _methods\Linq_methods\Linq_methods\obj\Debug\net10.0\ref\Linq_methods.dll

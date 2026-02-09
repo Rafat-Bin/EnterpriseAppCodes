@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafat\\OneDrive\\Desktop\\LINQ_with _methods\\Linq_methods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0B2FA-AE12-44CA-8FF3-7D56C4274633}|Linq_methods\\Linq_methods.csproj|c:\\users\\rafat\\onedrive\\desktop\\linq_with _methods\\linq_methods\\linq_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0B2FA-AE12-44CA-8FF3-7D56C4274633}|Linq_methods\\Linq_methods.csproj|solutionrelative:linq_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0B2FA-AE12-44CA-8FF3-7D56C4274633}|Linq_methods\\Linq_methods.csproj|c:\\users\\rafat\\onedrive\\desktop\\linq_with _methods\\linq_methods\\linq_methods\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0B2FA-AE12-44CA-8FF3-7D56C4274633}|Linq_methods\\Linq_methods.csproj|solutionrelative:linq_methods\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA0B2FA-AE12-44CA-8FF3-7D56C4274633}|Linq_methods\\Linq_methods.csproj|c:\\users\\rafat\\onedrive\\desktop\\linq_with _methods\\linq_methods\\linq_methods\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA0B2FA-AE12-44CA-8FF3-7D56C4274633}|Linq_methods\\Linq_methods.csproj|solutionrelative:linq_methods\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\rafat\\OneDrive\\Desktop\\LINQ_with _methods\\Linq_methods\\Linq_methods\\StudentService.cs",
+              "RelativeDocumentMoniker": "Linq_methods\\StudentService.cs",
+              "ToolTip": "C:\\Users\\rafat\\OneDrive\\Desktop\\LINQ_with _methods\\Linq_methods\\Linq_methods\\StudentService.cs",
+              "RelativeToolTip": "Linq_methods\\StudentService.cs",
+              "ViewState": "AgIAAEgAAAAAzszMzEwlwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T03:37:00.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\rafat\\OneDrive\\Desktop\\LINQ_with _methods\\Linq_methods\\Linq_methods\\Student.cs",
+              "RelativeDocumentMoniker": "Linq_methods\\Student.cs",
+              "ToolTip": "C:\\Users\\rafat\\OneDrive\\Desktop\\LINQ_with _methods\\Linq_methods\\Linq_methods\\Student.cs",
+              "RelativeToolTip": "Linq_methods\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T03:36:36.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rafat\\OneDrive\\Desktop\\LINQ_with _methods\\Linq_methods\\Linq_methods\\Program.cs",
+              "RelativeDocumentMoniker": "Linq_methods\\Program.cs",
+              "ToolTip": "C:\\Users\\rafat\\OneDrive\\Desktop\\LINQ_with _methods\\Linq_methods\\Linq_methods\\Program.cs",
+              "RelativeToolTip": "Linq_methods\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T03:35:40.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

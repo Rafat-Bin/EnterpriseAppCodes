@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafat\\OneDrive\\Desktop\\Lesson 17\\EF_curd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EF7738-6349-426F-B8C9-37CD25C59652}|EF_curd\\EF_curd.csproj|c:\\users\\rafat\\onedrive\\desktop\\lesson 17\\ef_curd\\ef_curd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EF7738-6349-426F-B8C9-37CD25C59652}|EF_curd\\EF_curd.csproj|solutionrelative:ef_curd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EF7738-6349-426F-B8C9-37CD25C59652}|EF_curd\\EF_curd.csproj|c:\\users\\rafat\\onedrive\\desktop\\lesson 17\\ef_curd\\ef_curd\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EF7738-6349-426F-B8C9-37CD25C59652}|EF_curd\\EF_curd.csproj|solutionrelative:ef_curd\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EF7738-6349-426F-B8C9-37CD25C59652}|EF_curd\\EF_curd.csproj|c:\\users\\rafat\\onedrive\\desktop\\lesson 17\\ef_curd\\ef_curd\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EF7738-6349-426F-B8C9-37CD25C59652}|EF_curd\\EF_curd.csproj|solutionrelative:ef_curd\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EF7738-6349-426F-B8C9-37CD25C59652}|EF_curd\\EF_curd.csproj|c:\\users\\rafat\\onedrive\\desktop\\lesson 17\\ef_curd\\ef_curd\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EF7738-6349-426F-B8C9-37CD25C59652}|EF_curd\\EF_curd.csproj|solutionrelative:ef_curd\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\rafat\\OneDrive\\Desktop\\Lesson 17\\EF_curd\\EF_curd\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "EF_curd\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\rafat\\OneDrive\\Desktop\\Lesson 17\\EF_curd\\EF_curd\\SchoolContext.cs",
+              "RelativeToolTip": "EF_curd\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T21:03:55.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\rafat\\OneDrive\\Desktop\\Lesson 17\\EF_curd\\EF_curd\\Student.cs",
+              "RelativeDocumentMoniker": "EF_curd\\Student.cs",
+              "ToolTip": "C:\\Users\\rafat\\OneDrive\\Desktop\\Lesson 17\\EF_curd\\EF_curd\\Student.cs",
+              "RelativeToolTip": "EF_curd\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T21:03:21.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\rafat\\OneDrive\\Desktop\\Lesson 17\\EF_curd\\EF_curd\\Course.cs",
+              "RelativeDocumentMoniker": "EF_curd\\Course.cs",
+              "ToolTip": "C:\\Users\\rafat\\OneDrive\\Desktop\\Lesson 17\\EF_curd\\EF_curd\\Course.cs",
+              "RelativeToolTip": "EF_curd\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T21:02:45.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rafat\\OneDrive\\Desktop\\Lesson 17\\EF_curd\\EF_curd\\Program.cs",
+              "RelativeDocumentMoniker": "EF_curd\\Program.cs",
+              "ToolTip": "C:\\Users\\rafat\\OneDrive\\Desktop\\Lesson 17\\EF_curd\\EF_curd\\Program.cs*",
+              "RelativeToolTip": "EF_curd\\Program.cs*",
+              "ViewState": "AgIAABwAAADg/////38gwAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T21:01:37.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
