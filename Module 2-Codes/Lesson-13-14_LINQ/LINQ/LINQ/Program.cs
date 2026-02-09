@@ -234,9 +234,7 @@ class Program
 
 
 
-using System;
 
-using System.Collections.Generic;
 
 using System.Linq;
 
@@ -290,7 +288,14 @@ class Program
 
         };
 
-
+        // =====================================================
+        // NOTE 
+        // -----------------------------------------------------
+        // Any LINQ query (Where, Select, OrderBy, GroupBy)
+        // returns IEnumerable<T> by default.
+        //
+        // Using 'var' OR 'IEnumerable<T>' is the SAME.
+        // =====================================================
 
         // ===============================
 
@@ -298,8 +303,8 @@ class Program
 
         // ===============================
 
-
-
+       //IEnumerable<Student> passedStudents = students.Where(s => s.Marks >= 70);
+       //same
         var passedStudents = students.Where(s => s.Marks >= 70);
 
         Console.WriteLine("\nPassed Students (Method Syntax):");
@@ -309,7 +314,8 @@ class Program
             Console.WriteLine($"{s.Name} - {s.Marks}");
 
 
-
+       // IEnumerable<Student> failedStudents = students.Where(s => s.Marks < 40);
+       //Same
         var failedStudents = students.Where(s => s.Marks < 40);
 
         Console.WriteLine("\nFailed Students:");
@@ -366,8 +372,8 @@ class Program
 
         // ===============================
 
-
-
+       // IEnumerable<string> names = students.Select(s => s.Name);
+        //Same
         var names = students.Select(s => s.Name);
 
         Console.WriteLine("\nOnly Names:");
@@ -377,6 +383,8 @@ class Program
             Console.WriteLine(name);
 
 
+
+        // IEnumerable<int> marks = students.Select(s => s.Marks);
 
         var marks = students.Select(s => s.Marks);
 
@@ -409,6 +417,8 @@ class Program
         // ===============================
 
 
+        // IEnumerable<int> bonusMarksQuery = from s in students select s.Marks + 5;
+
 
         var bonusMarksQuery =
 
@@ -432,7 +442,7 @@ class Program
 
         // ===============================
 
-
+        //IEnumerable<string> passedNames = students.Where(s => s.Marks >= 70).Select(s => s.Name);
 
         var passedNames = students
 
@@ -483,7 +493,8 @@ class Program
         // ===============================
 
 
-
+        // IEnumerable<IGrouping<string, Student>> groupBySection =
+        //    students.GroupBy(s => s.Section);
         var groupBySection = students.GroupBy(s => s.Section);
 
         Console.WriteLine("\nGroup By Section:");
@@ -512,7 +523,8 @@ class Program
 
         // ===============================
 
-
+        //IEnumerable<Student> orderByMarks =
+        //  students.OrderBy(s => s.Marks);
 
         var orderByMarks =
 
