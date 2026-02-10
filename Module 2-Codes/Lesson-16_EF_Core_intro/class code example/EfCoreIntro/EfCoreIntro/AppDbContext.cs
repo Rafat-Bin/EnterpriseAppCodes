@@ -27,7 +27,7 @@ using Microsoft.EntityFrameworkCore;
 public class AppDbContext : DbContext
 {
     // DbSet<Product> represents the Products table
- 
+    public DbSet<Product> Products => Set<Product>();
 
     // DbSet<Customer> represents the Customers table
     public DbSet<Customer> Customers => Set<Customer>();
