@@ -1,0 +1,41 @@
+﻿@page "/hello-blazor"
+
+<h3>Hello Blazor Demo</h3>
+
+<p>
+    Welcome to your first Blazor component!
+    This page shows how Razor syntax mixes HTML and C# together.
+</p>
+
+<hr />
+
+<!-- Data Binding Example -->
+<p><strong>Enter your name:</strong></p>
+<input @bind="userName" placeholder="Type your name" />
+
+<p>Hello, @userName!</p>
+
+<!-- Event Handling Example -->
+<button class="btn btn-primary" @onclick="UpdateGreeting">Update Greeting</button>
+
+@if (!string.IsNullOrWhiteSpace(greeting))
+{
+    <p><em>@greeting</em></p>
+}
+
+@code {
+    private string userName = "";
+    private string greeting = "";
+
+    private void UpdateGreeting()
+    {
+        if (string.IsNullOrWhiteSpace(userName))
+        {
+            greeting = "Please enter your name first.";
+        }
+        else
+        {
+            greeting = $"Nice to meet you, {userName}!";
+        }
+    }
+}

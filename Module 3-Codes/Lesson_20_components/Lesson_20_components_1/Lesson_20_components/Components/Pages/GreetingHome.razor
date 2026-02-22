@@ -1,0 +1,28 @@
+﻿@page "/w"
+
+<PageTitle>Lesson 20 Demo App</PageTitle>
+
+<h1>Lesson 20 - Components and Parameters</h1>
+
+<p>
+    In this lesson, you will learn how to build reusable UI components in Blazor using Razor syntax. 
+    You’ll also learn how to pass data into a component using parameters 
+    and how to send actions back to a parent component using EventCallback.
+
+</p>
+
+<Greeting Name="Sam" />
+<Greeting Name="Don" />
+
+<p>Counter: @count</p>
+
+<ActionButton Label="Add" OnClick="Increment" />
+
+@code {
+    private int count = 0;
+
+    private void Increment()
+    {
+        count++;
+    }
+}

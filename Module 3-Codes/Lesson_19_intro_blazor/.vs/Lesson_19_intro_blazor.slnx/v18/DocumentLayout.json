@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RAFATI\\Desktop\\Lesson_19_intro_blazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9588EF6E-7C52-4FB4-B214-B47105D18C85}|Lesson_19_intro_blazor\\Lesson_19_intro_blazor.csproj|c:\\users\\rafati\\desktop\\lesson_19_intro_blazor\\lesson_19_intro_blazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9588EF6E-7C52-4FB4-B214-B47105D18C85}|Lesson_19_intro_blazor\\Lesson_19_intro_blazor.csproj|solutionrelative:lesson_19_intro_blazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9588EF6E-7C52-4FB4-B214-B47105D18C85}|Lesson_19_intro_blazor\\Lesson_19_intro_blazor.csproj|c:\\users\\rafati\\desktop\\lesson_19_intro_blazor\\lesson_19_intro_blazor\\components\\pages\\helloblazor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9588EF6E-7C52-4FB4-B214-B47105D18C85}|Lesson_19_intro_blazor\\Lesson_19_intro_blazor.csproj|solutionrelative:lesson_19_intro_blazor\\components\\pages\\helloblazor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9588EF6E-7C52-4FB4-B214-B47105D18C85}|Lesson_19_intro_blazor\\Lesson_19_intro_blazor.csproj|c:\\users\\rafati\\desktop\\lesson_19_intro_blazor\\lesson_19_intro_blazor\\components\\pages\\helloworld.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9588EF6E-7C52-4FB4-B214-B47105D18C85}|Lesson_19_intro_blazor\\Lesson_19_intro_blazor.csproj|solutionrelative:lesson_19_intro_blazor\\components\\pages\\helloworld.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:469269523:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:202627798:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HelloWorld.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson_19_intro_blazor\\Lesson_19_intro_blazor\\Components\\Pages\\HelloWorld.razor",
+              "RelativeDocumentMoniker": "Lesson_19_intro_blazor\\Components\\Pages\\HelloWorld.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson_19_intro_blazor\\Lesson_19_intro_blazor\\Components\\Pages\\HelloWorld.razor",
+              "RelativeToolTip": "Lesson_19_intro_blazor\\Components\\Pages\\HelloWorld.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-21T20:10:41.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloBlazor.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson_19_intro_blazor\\Lesson_19_intro_blazor\\Components\\Pages\\HelloBlazor.razor",
+              "RelativeDocumentMoniker": "Lesson_19_intro_blazor\\Components\\Pages\\HelloBlazor.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson_19_intro_blazor\\Lesson_19_intro_blazor\\Components\\Pages\\HelloBlazor.razor",
+              "RelativeToolTip": "Lesson_19_intro_blazor\\Components\\Pages\\HelloBlazor.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-21T20:09:21.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson_19_intro_blazor\\Lesson_19_intro_blazor\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Lesson_19_intro_blazor\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson_19_intro_blazor\\Lesson_19_intro_blazor\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Lesson_19_intro_blazor\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-21T20:07:32.176Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

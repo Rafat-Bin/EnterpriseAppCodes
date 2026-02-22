@@ -1,0 +1,5 @@
+C:\Users\RAFATI\Desktop\SDEV2301-Codes\Module 2-Codes\Lesson-13-14_LINQ\LINQ\LINQ\obj\Debug\net10.0\LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAFATI\Desktop\SDEV2301-Codes\Module 2-Codes\Lesson-13-14_LINQ\LINQ\LINQ\obj\Debug\net10.0\LINQ.AssemblyInfoInputs.cache
+C:\Users\RAFATI\Desktop\SDEV2301-Codes\Module 2-Codes\Lesson-13-14_LINQ\LINQ\LINQ\obj\Debug\net10.0\LINQ.AssemblyInfo.cs
+C:\Users\RAFATI\Desktop\SDEV2301-Codes\Module 2-Codes\Lesson-13-14_LINQ\LINQ\LINQ\obj\Debug\net10.0\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\RAFATI\Desktop\SDEV2301-Codes\Module 2-Codes\Lesson-13-14_LINQ\LINQ\LINQ\obj\Debug\net10.0\LINQ.sourcelink.json

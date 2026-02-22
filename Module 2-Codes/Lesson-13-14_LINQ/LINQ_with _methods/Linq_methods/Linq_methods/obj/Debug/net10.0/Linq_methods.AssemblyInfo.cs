@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Linq_methods")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45456c4c86630eb60440474c15d10196f604cb6f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Linq_methods")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Linq_methods")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RAFATI\\Desktop\\Lesson_20_components\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0B0E1C-1C88-2A07-BF69-6B9385EAF19C}|Lesson_20_components\\Lesson_20_components.csproj|c:\\users\\rafati\\desktop\\lesson_20_components\\lesson_20_components\\components\\pages\\greetinghome.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E0B0E1C-1C88-2A07-BF69-6B9385EAF19C}|Lesson_20_components\\Lesson_20_components.csproj|solutionrelative:lesson_20_components\\components\\pages\\greetinghome.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0B0E1C-1C88-2A07-BF69-6B9385EAF19C}|Lesson_20_components\\Lesson_20_components.csproj|c:\\users\\rafati\\desktop\\lesson_20_components\\lesson_20_components\\components\\greeting.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E0B0E1C-1C88-2A07-BF69-6B9385EAF19C}|Lesson_20_components\\Lesson_20_components.csproj|solutionrelative:lesson_20_components\\components\\greeting.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0B0E1C-1C88-2A07-BF69-6B9385EAF19C}|Lesson_20_components\\Lesson_20_components.csproj|c:\\users\\rafati\\desktop\\lesson_20_components\\lesson_20_components\\components\\actionbutton.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E0B0E1C-1C88-2A07-BF69-6B9385EAF19C}|Lesson_20_components\\Lesson_20_components.csproj|solutionrelative:lesson_20_components\\components\\actionbutton.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:469269523:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:202627798:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ActionButton.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson_20_components\\Lesson_20_components\\Components\\ActionButton.razor",
+              "RelativeDocumentMoniker": "Lesson_20_components\\Components\\ActionButton.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson_20_components\\Lesson_20_components\\Components\\ActionButton.razor",
+              "RelativeToolTip": "Lesson_20_components\\Components\\ActionButton.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-22T05:19:21.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GreetingHome.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson_20_components\\Lesson_20_components\\Components\\Pages\\GreetingHome.razor",
+              "RelativeDocumentMoniker": "Lesson_20_components\\Components\\Pages\\GreetingHome.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson_20_components\\Lesson_20_components\\Components\\Pages\\GreetingHome.razor",
+              "RelativeToolTip": "Lesson_20_components\\Components\\Pages\\GreetingHome.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-22T03:55:13.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Greeting.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson_20_components\\Lesson_20_components\\Components\\Greeting.razor",
+              "RelativeDocumentMoniker": "Lesson_20_components\\Components\\Greeting.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson_20_components\\Lesson_20_components\\Components\\Greeting.razor",
+              "RelativeToolTip": "Lesson_20_components\\Components\\Greeting.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-22T03:54:32.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
