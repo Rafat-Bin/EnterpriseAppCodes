@@ -1,0 +1,15 @@
+﻿@page "/product-challenge/{id:int}/{name}"
+
+<h3>Product Details</h3>
+<p>Product ID: @Id</p>
+<p>Name: @Name</p>
+
+<p>You must pass both the id and name to the route of this page.</p>
+
+@code {
+    [Parameter]
+    public int Id { get; set; }
+
+    [Parameter]
+    public string Name { get; set; }
+}
