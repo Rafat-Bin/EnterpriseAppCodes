@@ -1,0 +1,47 @@
+﻿@page "/greeting-demo"
+
+<h3>Greeting Demo</h3>
+
+<h4>Dynamic Greeting (User Input)</h4>
+<label>Name:</label>
+<input @bind="name" />
+<br />
+
+<label>Color:</label>
+<input @bind="color" />
+<br />
+
+<Greeting Name="@name"
+          Color="@color"
+          FontSize="fontSize"
+          ShowTime="showTime"
+         OnGreet="HandleGreet" 
+          />
+
+<hr />
+
+<h4>Static Greeting (Fixed Values)</h4>
+<Greeting Name="Sam"
+          Color="blue"
+          FontSize="1.5rem"
+          ShowTime="true"
+          ShowButton="true"
+         OnGreet="HandleGreet"  />
+
+<p>@lastMessage</p>
+
+@code {
+    private string name = "";
+    private string color = "black";
+    private string fontSize = "1.25rem";
+    private bool showTime = true;
+
+    private string lastMessage = "";
+
+    private void HandleGreet(string message)
+    {
+        lastMessage = message;
+    }
+
+  
+}

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafat\\OneDrive\\Desktop\\Lesson 17\\EF_curd\\EF_curd\\EF_curd.csproj": {}
+    "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 2-Codes\\Lesson-17_EF_CURD\\EF_curd\\EF_curd\\EF_curd.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafat\\OneDrive\\Desktop\\Lesson 17\\EF_curd\\EF_curd\\EF_curd.csproj": {
+    "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 2-Codes\\Lesson-17_EF_CURD\\EF_curd\\EF_curd\\EF_curd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafat\\OneDrive\\Desktop\\Lesson 17\\EF_curd\\EF_curd\\EF_curd.csproj",
+        "projectUniqueName": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 2-Codes\\Lesson-17_EF_CURD\\EF_curd\\EF_curd\\EF_curd.csproj",
         "projectName": "EF_curd",
-        "projectPath": "C:\\Users\\rafat\\OneDrive\\Desktop\\Lesson 17\\EF_curd\\EF_curd\\EF_curd.csproj",
-        "packagesPath": "C:\\Users\\rafat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafat\\OneDrive\\Desktop\\Lesson 17\\EF_curd\\EF_curd\\obj\\",
+        "projectPath": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 2-Codes\\Lesson-17_EF_CURD\\EF_curd\\EF_curd\\EF_curd.csproj",
+        "packagesPath": "C:\\Users\\RAFATI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 2-Codes\\Lesson-17_EF_CURD\\EF_curd\\EF_curd\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\rafat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\RAFATI\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -80,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

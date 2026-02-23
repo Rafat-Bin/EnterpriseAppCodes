@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RAFATI\\Desktop\\Lesson_19_intro_blazor\\Lesson_19_intro_blazor\\Lesson_19_intro_blazor.csproj",
+      "projectUniqueName": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson_19_intro_blazor\\Lesson_19_intro_blazor\\Lesson_19_intro_blazor.csproj",
       "projectName": "Lesson_19_intro_blazor",
-      "projectPath": "C:\\Users\\RAFATI\\Desktop\\Lesson_19_intro_blazor\\Lesson_19_intro_blazor\\Lesson_19_intro_blazor.csproj",
+      "projectPath": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson_19_intro_blazor\\Lesson_19_intro_blazor\\Lesson_19_intro_blazor.csproj",
       "packagesPath": "C:\\Users\\RAFATI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RAFATI\\Desktop\\Lesson_19_intro_blazor\\Lesson_19_intro_blazor\\obj\\",
+      "outputPath": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson_19_intro_blazor\\Lesson_19_intro_blazor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

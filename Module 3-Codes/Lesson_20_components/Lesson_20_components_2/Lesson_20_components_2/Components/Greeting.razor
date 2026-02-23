@@ -1,0 +1,66 @@
+﻿
+<div>
+    <h4 style="color:@Color; font-size:@FontSize;">
+        Hello, @DisplayName!
+    </h4>
+
+    @if (ShowTime)
+    {
+        <p>
+            Current time: @DateTime.Now.ToShortTimeString()
+        </p>
+    }
+
+    @if (ShowButton)
+    {
+        <button @onclick="NotifyGreet">
+            Greet
+        </button>
+    }
+</div>
+
+@code {
+    // Data received from parent
+    [Parameter]
+    public string Name { get; set; } = "";
+
+    [Parameter]
+    public string Color { get; set; } = "black";
+
+    [Parameter]
+    public string FontSize { get; set; } = "1.25rem";
+
+    // Optional behavior flags
+    [Parameter]
+    public bool ShowTime { get; set; } = false;
+
+    [Parameter]
+    public bool ShowButton { get; set; } = true;
+
+    // Event to send data back to parent
+    [Parameter]
+    public EventCallback<string> OnGreet { get; set; }
+
+    // Property version instead of OnParametersSet()
+    private string DisplayName
+    {
+        get
+        {
+            if (string.IsNullOrWhiteSpace(Name))
+            {
+                return "Blazor Student";
+            }
+            else
+            {
+                return Name.Trim();
+            }
+        }
+    }
+
+    // Method runs when button is clicked
+    private async Task NotifyGreet()
+    {
+        string message = "Greetings from " + DisplayName + " at " + DateTime.Now.ToShortTimeString();
+        await OnGreet.InvokeAsync(message);
+    }
+}

@@ -2058,23 +2058,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rafat\\.nuget\\packages\\": {},
+    "C:\\Users\\RAFATI\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafat\\OneDrive\\Desktop\\class code example\\EfCoreIntro\\EfCoreIntro\\EfCoreIntro.csproj",
+      "projectUniqueName": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 2-Codes\\Lesson-16_EF_Core_intro\\class code example\\EfCoreIntro\\EfCoreIntro\\EfCoreIntro.csproj",
       "projectName": "EfCoreIntro",
-      "projectPath": "C:\\Users\\rafat\\OneDrive\\Desktop\\class code example\\EfCoreIntro\\EfCoreIntro\\EfCoreIntro.csproj",
-      "packagesPath": "C:\\Users\\rafat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafat\\OneDrive\\Desktop\\class code example\\EfCoreIntro\\EfCoreIntro\\obj\\",
+      "projectPath": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 2-Codes\\Lesson-16_EF_Core_intro\\class code example\\EfCoreIntro\\EfCoreIntro\\EfCoreIntro.csproj",
+      "packagesPath": "C:\\Users\\RAFATI\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 2-Codes\\Lesson-16_EF_Core_intro\\class code example\\EfCoreIntro\\EfCoreIntro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\rafat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\RAFATI\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2141,7 +2141,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

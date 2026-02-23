@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rafat\\OneDrive\\Desktop\\class code example\\EfCoreIntro\\",
+  "WorkspaceRootPath": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 2-Codes\\Lesson-16_EF_Core_intro\\class code example\\EfCoreIntro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{770BC46C-511D-4AA9-87AE-C8FDF040B792}|EfCoreIntro\\EfCoreIntro.csproj|c:\\users\\rafat\\onedrive\\desktop\\class code example\\efcoreintro\\efcoreintro\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{770BC46C-511D-4AA9-87AE-C8FDF040B792}|EfCoreIntro\\EfCoreIntro.csproj|solutionrelative:efcoreintro\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21444A91-F704-F45C-2259-3FF7EF68F4C3}|EfCoreIntro\\EfCoreIntro.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 2-codes\\lesson-16_ef_core_intro\\class code example\\efcoreintro\\efcoreintro\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21444A91-F704-F45C-2259-3FF7EF68F4C3}|EfCoreIntro\\EfCoreIntro.csproj|solutionrelative:efcoreintro\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{770BC46C-511D-4AA9-87AE-C8FDF040B792}|EfCoreIntro\\EfCoreIntro.csproj|c:\\users\\rafat\\onedrive\\desktop\\class code example\\efcoreintro\\efcoreintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{770BC46C-511D-4AA9-87AE-C8FDF040B792}|EfCoreIntro\\EfCoreIntro.csproj|solutionrelative:efcoreintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21444A91-F704-F45C-2259-3FF7EF68F4C3}|EfCoreIntro\\EfCoreIntro.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 2-codes\\lesson-16_ef_core_intro\\class code example\\efcoreintro\\efcoreintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21444A91-F704-F45C-2259-3FF7EF68F4C3}|EfCoreIntro\\EfCoreIntro.csproj|solutionrelative:efcoreintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{770BC46C-511D-4AA9-87AE-C8FDF040B792}|EfCoreIntro\\EfCoreIntro.csproj|c:\\users\\rafat\\onedrive\\desktop\\class code example\\efcoreintro\\efcoreintro\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{770BC46C-511D-4AA9-87AE-C8FDF040B792}|EfCoreIntro\\EfCoreIntro.csproj|solutionrelative:efcoreintro\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21444A91-F704-F45C-2259-3FF7EF68F4C3}|EfCoreIntro\\EfCoreIntro.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 2-codes\\lesson-16_ef_core_intro\\class code example\\efcoreintro\\efcoreintro\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21444A91-F704-F45C-2259-3FF7EF68F4C3}|EfCoreIntro\\EfCoreIntro.csproj|solutionrelative:efcoreintro\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{770BC46C-511D-4AA9-87AE-C8FDF040B792}|EfCoreIntro\\EfCoreIntro.csproj|c:\\users\\rafat\\onedrive\\desktop\\class code example\\efcoreintro\\efcoreintro\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{770BC46C-511D-4AA9-87AE-C8FDF040B792}|EfCoreIntro\\EfCoreIntro.csproj|solutionrelative:efcoreintro\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21444A91-F704-F45C-2259-3FF7EF68F4C3}|EfCoreIntro\\EfCoreIntro.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 2-codes\\lesson-16_ef_core_intro\\class code example\\efcoreintro\\efcoreintro\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21444A91-F704-F45C-2259-3FF7EF68F4C3}|EfCoreIntro\\EfCoreIntro.csproj|solutionrelative:efcoreintro\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,53 +37,59 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:469269523:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:202627798:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\rafat\\OneDrive\\Desktop\\class code example\\EfCoreIntro\\EfCoreIntro\\Customer.cs",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 2-Codes\\Lesson-16_EF_Core_intro\\class code example\\EfCoreIntro\\EfCoreIntro\\Customer.cs",
               "RelativeDocumentMoniker": "EfCoreIntro\\Customer.cs",
-              "ToolTip": "C:\\Users\\rafat\\OneDrive\\Desktop\\class code example\\EfCoreIntro\\EfCoreIntro\\Customer.cs",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 2-Codes\\Lesson-16_EF_Core_intro\\class code example\\EfCoreIntro\\EfCoreIntro\\Customer.cs",
               "RelativeToolTip": "EfCoreIntro\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-07T23:41:37.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-07T23:41:37.189Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\rafat\\OneDrive\\Desktop\\class code example\\EfCoreIntro\\EfCoreIntro\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 2-Codes\\Lesson-16_EF_Core_intro\\class code example\\EfCoreIntro\\EfCoreIntro\\AppDbContext.cs",
               "RelativeDocumentMoniker": "EfCoreIntro\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\rafat\\OneDrive\\Desktop\\class code example\\EfCoreIntro\\EfCoreIntro\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 2-Codes\\Lesson-16_EF_Core_intro\\class code example\\EfCoreIntro\\EfCoreIntro\\AppDbContext.cs",
               "RelativeToolTip": "EfCoreIntro\\AppDbContext.cs",
-              "ViewState": "AgIAAA4AAABAMzMzM/MmwB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAABgzczMzIwlwBQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-07T23:16:28.767Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\rafat\\OneDrive\\Desktop\\class code example\\EfCoreIntro\\EfCoreIntro\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 2-Codes\\Lesson-16_EF_Core_intro\\class code example\\EfCoreIntro\\EfCoreIntro\\Product.cs",
               "RelativeDocumentMoniker": "EfCoreIntro\\Product.cs",
-              "ToolTip": "C:\\Users\\rafat\\OneDrive\\Desktop\\class code example\\EfCoreIntro\\EfCoreIntro\\Product.cs",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 2-Codes\\Lesson-16_EF_Core_intro\\class code example\\EfCoreIntro\\EfCoreIntro\\Product.cs",
               "RelativeToolTip": "EfCoreIntro\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-07T23:14:55.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-07T23:14:55.862Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rafat\\OneDrive\\Desktop\\class code example\\EfCoreIntro\\EfCoreIntro\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 2-Codes\\Lesson-16_EF_Core_intro\\class code example\\EfCoreIntro\\EfCoreIntro\\Program.cs",
               "RelativeDocumentMoniker": "EfCoreIntro\\Program.cs",
-              "ToolTip": "C:\\Users\\rafat\\OneDrive\\Desktop\\class code example\\EfCoreIntro\\EfCoreIntro\\Program.cs",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 2-Codes\\Lesson-16_EF_Core_intro\\class code example\\EfCoreIntro\\EfCoreIntro\\Program.cs",
               "RelativeToolTip": "EfCoreIntro\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAADA/////78swAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-07T23:10:10.71Z",
               "EditorCaption": ""
