@@ -1,0 +1,43 @@
+﻿@page "/taskform"
+@using Lesson22DemoBlazorApp.Models
+
+@if (string.IsNullOrWhiteSpace(feedbackMessage))
+{
+    <h3>Task Form</h3>
+}
+else
+{
+    <h3>@feedbackMessage</h3>
+}
+
+<EditForm Model="_model" OnValidSubmit="HandleSubmit">
+    <ValidationSummary />
+    <DataAnnotationsValidator />
+
+    <label>Title:</label>
+    <InputText @bind-Value="_model.Title" />
+    <ValidationMessage For="@(() => _model.Title)" />
+
+    <label>Due Date:</label>
+    <InputDate @bind-Value="_model.DueDate" />
+    <ValidationMessage For="@(() => _model.DueDate)" />
+
+    <label>Is Complete:</label>
+    <InputCheckbox @bind-Value="_model.IsComplete" />
+    <ValidationMessage For="@(() => _model.IsComplete)" />
+
+    <button type="submit">Submit</button>
+</EditForm>
+
+<h3>TaskForm</h3>
+
+@code {
+    TaskItem _model = new();
+    private string? feedbackMessage;
+
+    private void HandleSubmit()
+    {
+        // Called only when the form is valid
+        feedbackMessage = $"Task '{_model.Title}' due on {_model.DueDate:d} has been submitted. Completed: {_model.IsComplete}";
+    }
+}
