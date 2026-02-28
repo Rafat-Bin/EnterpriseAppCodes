@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RAFATI\\Desktop\\Lesson24DemoBlazorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D814532-27C2-18F0-73CD-6AD61011D1A6}|Lesson24DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\lesson24demoblazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D814532-27C2-18F0-73CD-6AD61011D1A6}|Lesson24DemoBlazorApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D814532-27C2-18F0-73CD-6AD61011D1A6}|Lesson24DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\lesson24demoblazorapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D814532-27C2-18F0-73CD-6AD61011D1A6}|Lesson24DemoBlazorApp.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D814532-27C2-18F0-73CD-6AD61011D1A6}|Lesson24DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\lesson24demoblazorapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D814532-27C2-18F0-73CD-6AD61011D1A6}|Lesson24DemoBlazorApp.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D814532-27C2-18F0-73CD-6AD61011D1A6}|Lesson24DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\lesson24demoblazorapp\\services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D814532-27C2-18F0-73CD-6AD61011D1A6}|Lesson24DemoBlazorApp.csproj|solutionrelative:services\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D814532-27C2-18F0-73CD-6AD61011D1A6}|Lesson24DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\lesson24demoblazorapp\\services\\timerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D814532-27C2-18F0-73CD-6AD61011D1A6}|Lesson24DemoBlazorApp.csproj|solutionrelative:services\\timerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D814532-27C2-18F0-73CD-6AD61011D1A6}|Lesson24DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\lesson24demoblazorapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D814532-27C2-18F0-73CD-6AD61011D1A6}|Lesson24DemoBlazorApp.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:469269523:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:202627798:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson24DemoBlazorApp\\Services\\MessageService.cs",
+              "RelativeDocumentMoniker": "Services\\MessageService.cs",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson24DemoBlazorApp\\Services\\MessageService.cs",
+              "RelativeToolTip": "Services\\MessageService.cs",
+              "ViewState": "AgIAAAAAAAAANDMzMzPbvwwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T00:41:17.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson24DemoBlazorApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson24DemoBlazorApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T00:39:19.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TimerService.cs",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson24DemoBlazorApp\\Services\\TimerService.cs",
+              "RelativeDocumentMoniker": "Services\\TimerService.cs",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson24DemoBlazorApp\\Services\\TimerService.cs",
+              "RelativeToolTip": "Services\\TimerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T00:39:08.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson24DemoBlazorApp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson24DemoBlazorApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAkAAACAt8zMzMwHwAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T00:36:07.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson24DemoBlazorApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson24DemoBlazorApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T00:36:00.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson24DemoBlazorApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson24DemoBlazorApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T00:46:32.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

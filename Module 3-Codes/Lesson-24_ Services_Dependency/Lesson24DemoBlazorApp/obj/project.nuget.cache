@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4KU9Z+zVsY0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RAFATI\\Desktop\\Lesson24DemoBlazorApp\\Lesson24DemoBlazorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RAFATI\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.3\\microsoft.aspnetcore.app.internal.assets.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

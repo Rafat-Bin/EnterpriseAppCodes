@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\RAFATI\\Desktop\\Lesson22DemoBlazorApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9723F230-CAE6-D0B1-F9CC-9C2D49608DD3}|Lesson22DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\lesson22demoblazorapp\\components\\pages\\taskform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9723F230-CAE6-D0B1-F9CC-9C2D49608DD3}|Lesson22DemoBlazorApp.csproj|solutionrelative:components\\pages\\taskform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9723F230-CAE6-D0B1-F9CC-9C2D49608DD3}|Lesson22DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\lesson22demoblazorapp\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9723F230-CAE6-D0B1-F9CC-9C2D49608DD3}|Lesson22DemoBlazorApp.csproj|solutionrelative:models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9723F230-CAE6-D0B1-F9CC-9C2D49608DD3}|Lesson22DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\lesson22demoblazorapp\\components\\pages\\taskform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9723F230-CAE6-D0B1-F9CC-9C2D49608DD3}|Lesson22DemoBlazorApp.csproj|solutionrelative:components\\pages\\taskform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9723F230-CAE6-D0B1-F9CC-9C2D49608DD3}|Lesson22DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\lesson22demoblazorapp\\components\\pages\\formdemo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,20 +50,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TaskForm.razor",
               "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson22DemoBlazorApp\\Components\\Pages\\TaskForm.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\TaskForm.razor",
               "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson22DemoBlazorApp\\Components\\Pages\\TaskForm.razor",
               "RelativeToolTip": "Components\\Pages\\TaskForm.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-16T23:59:24.881Z",
+              "WhenOpened": "2026-02-27T18:41:28.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TaskItem.cs",
               "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson22DemoBlazorApp\\Models\\TaskItem.cs",
               "RelativeDocumentMoniker": "Models\\TaskItem.cs",
@@ -82,7 +82,7 @@
               "RelativeDocumentMoniker": "Components\\Pages\\FormDemo.razor",
               "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson22DemoBlazorApp\\Components\\Pages\\FormDemo.razor",
               "RelativeToolTip": "Components\\Pages\\FormDemo.razor",
-              "ViewState": "AgIAAAEAAABwZGZmZmYUwAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-16T23:44:44.479Z",
               "EditorCaption": ""
