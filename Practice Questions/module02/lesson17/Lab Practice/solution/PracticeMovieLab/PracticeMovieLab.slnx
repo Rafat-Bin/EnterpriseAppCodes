@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PracticeMovieLab.Core/PracticeMovieLab.Core.csproj" />
+  <Project Path="PracticeMovieLab.Tests/PracticeMovieLab.Tests.csproj" />
+</Solution>

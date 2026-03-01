@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\RAFATI\\Desktop\\Lesson22DemoBlazorApp\\",
+  "WorkspaceRootPath": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-22_forms_binding\\Lesson22DemoBlazorApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9723F230-CAE6-D0B1-F9CC-9C2D49608DD3}|Lesson22DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\lesson22demoblazorapp\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9723F230-CAE6-D0B1-F9CC-9C2D49608DD3}|Lesson22DemoBlazorApp.csproj|solutionrelative:models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9723F230-CAE6-D0B1-F9CC-9C2D49608DD3}|Lesson22DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\lesson22demoblazorapp\\components\\pages\\taskform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9723F230-CAE6-D0B1-F9CC-9C2D49608DD3}|Lesson22DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 3-codes\\lesson-22_forms_binding\\lesson22demoblazorapp\\components\\pages\\taskform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9723F230-CAE6-D0B1-F9CC-9C2D49608DD3}|Lesson22DemoBlazorApp.csproj|solutionrelative:components\\pages\\taskform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9723F230-CAE6-D0B1-F9CC-9C2D49608DD3}|Lesson22DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\lesson22demoblazorapp\\components\\pages\\formdemo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9723F230-CAE6-D0B1-F9CC-9C2D49608DD3}|Lesson22DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 3-codes\\lesson-22_forms_binding\\lesson22demoblazorapp\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9723F230-CAE6-D0B1-F9CC-9C2D49608DD3}|Lesson22DemoBlazorApp.csproj|solutionrelative:models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9723F230-CAE6-D0B1-F9CC-9C2D49608DD3}|Lesson22DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 3-codes\\lesson-22_forms_binding\\lesson22demoblazorapp\\components\\pages\\formdemo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9723F230-CAE6-D0B1-F9CC-9C2D49608DD3}|Lesson22DemoBlazorApp.csproj|solutionrelative:components\\pages\\formdemo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9723F230-CAE6-D0B1-F9CC-9C2D49608DD3}|Lesson22DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\lesson22demoblazorapp\\models\\contactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9723F230-CAE6-D0B1-F9CC-9C2D49608DD3}|Lesson22DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 3-codes\\lesson-22_forms_binding\\lesson22demoblazorapp\\models\\contactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9723F230-CAE6-D0B1-F9CC-9C2D49608DD3}|Lesson22DemoBlazorApp.csproj|solutionrelative:models\\contactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9723F230-CAE6-D0B1-F9CC-9C2D49608DD3}|Lesson22DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\lesson22demoblazorapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9723F230-CAE6-D0B1-F9CC-9C2D49608DD3}|Lesson22DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 3-codes\\lesson-22_forms_binding\\lesson22demoblazorapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9723F230-CAE6-D0B1-F9CC-9C2D49608DD3}|Lesson22DemoBlazorApp.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,11 +50,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TaskForm.razor",
-              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson22DemoBlazorApp\\Components\\Pages\\TaskForm.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-22_forms_binding\\Lesson22DemoBlazorApp\\Components\\Pages\\TaskForm.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\TaskForm.razor",
-              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson22DemoBlazorApp\\Components\\Pages\\TaskForm.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-22_forms_binding\\Lesson22DemoBlazorApp\\Components\\Pages\\TaskForm.razor",
               "RelativeToolTip": "Components\\Pages\\TaskForm.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -63,11 +63,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TaskItem.cs",
-              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson22DemoBlazorApp\\Models\\TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-22_forms_binding\\Lesson22DemoBlazorApp\\Models\\TaskItem.cs",
               "RelativeDocumentMoniker": "Models\\TaskItem.cs",
-              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson22DemoBlazorApp\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-22_forms_binding\\Lesson22DemoBlazorApp\\Models\\TaskItem.cs",
               "RelativeToolTip": "Models\\TaskItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -78,9 +78,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "FormDemo.razor",
-              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson22DemoBlazorApp\\Components\\Pages\\FormDemo.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-22_forms_binding\\Lesson22DemoBlazorApp\\Components\\Pages\\FormDemo.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\FormDemo.razor",
-              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson22DemoBlazorApp\\Components\\Pages\\FormDemo.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-22_forms_binding\\Lesson22DemoBlazorApp\\Components\\Pages\\FormDemo.razor",
               "RelativeToolTip": "Components\\Pages\\FormDemo.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -91,9 +91,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ContactForm.cs",
-              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson22DemoBlazorApp\\Models\\ContactForm.cs",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-22_forms_binding\\Lesson22DemoBlazorApp\\Models\\ContactForm.cs",
               "RelativeDocumentMoniker": "Models\\ContactForm.cs",
-              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson22DemoBlazorApp\\Models\\ContactForm.cs",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-22_forms_binding\\Lesson22DemoBlazorApp\\Models\\ContactForm.cs",
               "RelativeToolTip": "Models\\ContactForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -104,14 +104,13 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson22DemoBlazorApp\\Components\\Layout\\NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-22_forms_binding\\Lesson22DemoBlazorApp\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson22DemoBlazorApp\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-22_forms_binding\\Lesson22DemoBlazorApp\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-16T23:41:59.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-16T23:41:59.103Z"
             }
           ]
         }
