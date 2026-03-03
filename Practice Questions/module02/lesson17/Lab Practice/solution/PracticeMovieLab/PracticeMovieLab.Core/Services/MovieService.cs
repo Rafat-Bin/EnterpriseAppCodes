@@ -20,7 +20,7 @@ namespace PracticeMovieLab.Core.Services
             if (movie is null)
                 throw new ArgumentNullException(nameof(movie));
 
-            await _db.Movies.AddAsync(movie);
+            _db.Movies.AddAsync(movie);
             await _db.SaveChangesAsync();
 
             return movie.Id; // EF Core generates Id after SaveChanges
