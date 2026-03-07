@@ -1,14 +1,7 @@
 ﻿@page "/form-demo"
 @using Lesson22DemoBlazorApp.Models
 
-@if(string.IsNullOrWhiteSpace(feedbackMessage))
-{
-    <h3>Contact Form</h3>
-}
-else
-{
-    <h3>@feedbackMessage</h3>
-}
+
 
 <EditForm Model="_model" OnValidSubmit="HandleSubmit">
     <ValidationSummary />

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4KU9Z+zVsY0=",
+  "dgSpecHash": "LQrlGM2oB8c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\RAFATI\\Desktop\\Lesson24DemoBlazorApp\\Lesson24DemoBlazorApp.csproj",
+  "projectFilePath": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-24_ Services_Dependency\\Lesson24DemoBlazorApp\\Lesson24DemoBlazorApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RAFATI\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.3\\microsoft.aspnetcore.app.internal.assets.10.0.3.nupkg.sha512"
   ],

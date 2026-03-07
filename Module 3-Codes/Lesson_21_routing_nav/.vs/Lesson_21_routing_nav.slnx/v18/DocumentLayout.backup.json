@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\RAFATI\\Desktop\\Lesson_21_routing_nav\\",
+  "WorkspaceRootPath": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson_21_routing_nav\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75C30CD5-2299-48C3-A157-C62309D0B33C}|Lesson_21_routing_nav\\Lesson_21_routing_nav.csproj|c:\\users\\rafati\\desktop\\lesson_21_routing_nav\\lesson_21_routing_nav\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75C30CD5-2299-48C3-A157-C62309D0B33C}|Lesson_21_routing_nav\\Lesson_21_routing_nav.csproj|solutionrelative:lesson_21_routing_nav\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8C1471AD-BF7D-A7F5-5B44-0E811DA5F133}|Lesson_21_routing_nav\\Lesson_21_routing_nav.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 3-codes\\lesson_21_routing_nav\\lesson_21_routing_nav\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C1471AD-BF7D-A7F5-5B44-0E811DA5F133}|Lesson_21_routing_nav\\Lesson_21_routing_nav.csproj|solutionrelative:lesson_21_routing_nav\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C30CD5-2299-48C3-A157-C62309D0B33C}|Lesson_21_routing_nav\\Lesson_21_routing_nav.csproj|c:\\users\\rafati\\desktop\\lesson_21_routing_nav\\lesson_21_routing_nav\\components\\pages\\productdetailschallenge.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75C30CD5-2299-48C3-A157-C62309D0B33C}|Lesson_21_routing_nav\\Lesson_21_routing_nav.csproj|solutionrelative:lesson_21_routing_nav\\components\\pages\\productdetailschallenge.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8C1471AD-BF7D-A7F5-5B44-0E811DA5F133}|Lesson_21_routing_nav\\Lesson_21_routing_nav.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 3-codes\\lesson_21_routing_nav\\lesson_21_routing_nav\\components\\pages\\productdetailschallenge.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C1471AD-BF7D-A7F5-5B44-0E811DA5F133}|Lesson_21_routing_nav\\Lesson_21_routing_nav.csproj|solutionrelative:lesson_21_routing_nav\\components\\pages\\productdetailschallenge.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C30CD5-2299-48C3-A157-C62309D0B33C}|Lesson_21_routing_nav\\Lesson_21_routing_nav.csproj|c:\\users\\rafati\\desktop\\lesson_21_routing_nav\\lesson_21_routing_nav\\components\\pages\\productdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75C30CD5-2299-48C3-A157-C62309D0B33C}|Lesson_21_routing_nav\\Lesson_21_routing_nav.csproj|solutionrelative:lesson_21_routing_nav\\components\\pages\\productdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8C1471AD-BF7D-A7F5-5B44-0E811DA5F133}|Lesson_21_routing_nav\\Lesson_21_routing_nav.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 3-codes\\lesson_21_routing_nav\\lesson_21_routing_nav\\components\\pages\\productdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C1471AD-BF7D-A7F5-5B44-0E811DA5F133}|Lesson_21_routing_nav\\Lesson_21_routing_nav.csproj|solutionrelative:lesson_21_routing_nav\\components\\pages\\productdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C30CD5-2299-48C3-A157-C62309D0B33C}|Lesson_21_routing_nav\\Lesson_21_routing_nav.csproj|c:\\users\\rafati\\desktop\\lesson_21_routing_nav\\lesson_21_routing_nav\\components\\pages\\help.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75C30CD5-2299-48C3-A157-C62309D0B33C}|Lesson_21_routing_nav\\Lesson_21_routing_nav.csproj|solutionrelative:lesson_21_routing_nav\\components\\pages\\help.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8C1471AD-BF7D-A7F5-5B44-0E811DA5F133}|Lesson_21_routing_nav\\Lesson_21_routing_nav.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 3-codes\\lesson_21_routing_nav\\lesson_21_routing_nav\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C1471AD-BF7D-A7F5-5B44-0E811DA5F133}|Lesson_21_routing_nav\\Lesson_21_routing_nav.csproj|solutionrelative:lesson_21_routing_nav\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75C30CD5-2299-48C3-A157-C62309D0B33C}|Lesson_21_routing_nav\\Lesson_21_routing_nav.csproj|c:\\users\\rafati\\desktop\\lesson_21_routing_nav\\lesson_21_routing_nav\\components\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{75C30CD5-2299-48C3-A157-C62309D0B33C}|Lesson_21_routing_nav\\Lesson_21_routing_nav.csproj|solutionrelative:lesson_21_routing_nav\\components\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8C1471AD-BF7D-A7F5-5B44-0E811DA5F133}|Lesson_21_routing_nav\\Lesson_21_routing_nav.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 3-codes\\lesson_21_routing_nav\\lesson_21_routing_nav\\components\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C1471AD-BF7D-A7F5-5B44-0E811DA5F133}|Lesson_21_routing_nav\\Lesson_21_routing_nav.csproj|solutionrelative:lesson_21_routing_nav\\components\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C1471AD-BF7D-A7F5-5B44-0E811DA5F133}|Lesson_21_routing_nav\\Lesson_21_routing_nav.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 3-codes\\lesson_21_routing_nav\\lesson_21_routing_nav\\components\\pages\\help.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C1471AD-BF7D-A7F5-5B44-0E811DA5F133}|Lesson_21_routing_nav\\Lesson_21_routing_nav.csproj|solutionrelative:lesson_21_routing_nav\\components\\pages\\help.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,25 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson_21_routing_nav\\Lesson_21_routing_nav\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "Lesson_21_routing_nav\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson_21_routing_nav\\Lesson_21_routing_nav\\Components\\Layout\\NavMenu.razor*",
-              "RelativeToolTip": "Lesson_21_routing_nav\\Components\\Layout\\NavMenu.razor*",
-              "ViewState": "AgIAAAYAAAAgnJmZmRkWwCIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-22T23:31:59.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -63,11 +50,50 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson_21_routing_nav\\Lesson_21_routing_nav\\Components\\About.razor",
+              "RelativeDocumentMoniker": "Lesson_21_routing_nav\\Components\\About.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson_21_routing_nav\\Lesson_21_routing_nav\\Components\\About.razor",
+              "RelativeToolTip": "Lesson_21_routing_nav\\Components\\About.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-01T21:00:19.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson_21_routing_nav\\Lesson_21_routing_nav\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Lesson_21_routing_nav\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson_21_routing_nav\\Lesson_21_routing_nav\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Lesson_21_routing_nav\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-01T20:57:23.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson_21_routing_nav\\Lesson_21_routing_nav\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Lesson_21_routing_nav\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson_21_routing_nav\\Lesson_21_routing_nav\\Components\\Layout\\NavMenu.razor*",
+              "RelativeToolTip": "Lesson_21_routing_nav\\Components\\Layout\\NavMenu.razor*",
+              "ViewState": "AgIAABEAAACgZmZmZqYowCQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-22T23:31:59.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ProductDetailsChallenge.razor",
-              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson_21_routing_nav\\Lesson_21_routing_nav\\Components\\Pages\\ProductDetailsChallenge.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson_21_routing_nav\\Lesson_21_routing_nav\\Components\\Pages\\ProductDetailsChallenge.razor",
               "RelativeDocumentMoniker": "Lesson_21_routing_nav\\Components\\Pages\\ProductDetailsChallenge.razor",
-              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson_21_routing_nav\\Lesson_21_routing_nav\\Components\\Pages\\ProductDetailsChallenge.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson_21_routing_nav\\Lesson_21_routing_nav\\Components\\Pages\\ProductDetailsChallenge.razor",
               "RelativeToolTip": "Lesson_21_routing_nav\\Components\\Pages\\ProductDetailsChallenge.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -78,9 +104,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ProductDetails.razor",
-              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson_21_routing_nav\\Lesson_21_routing_nav\\Components\\Pages\\ProductDetails.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson_21_routing_nav\\Lesson_21_routing_nav\\Components\\Pages\\ProductDetails.razor",
               "RelativeDocumentMoniker": "Lesson_21_routing_nav\\Components\\Pages\\ProductDetails.razor",
-              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson_21_routing_nav\\Lesson_21_routing_nav\\Components\\Pages\\ProductDetails.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson_21_routing_nav\\Lesson_21_routing_nav\\Components\\Pages\\ProductDetails.razor",
               "RelativeToolTip": "Lesson_21_routing_nav\\Components\\Pages\\ProductDetails.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -89,28 +115,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Help.razor",
-              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson_21_routing_nav\\Lesson_21_routing_nav\\Components\\Pages\\Help.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson_21_routing_nav\\Lesson_21_routing_nav\\Components\\Pages\\Help.razor",
               "RelativeDocumentMoniker": "Lesson_21_routing_nav\\Components\\Pages\\Help.razor",
-              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson_21_routing_nav\\Lesson_21_routing_nav\\Components\\Pages\\Help.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson_21_routing_nav\\Lesson_21_routing_nav\\Components\\Pages\\Help.razor",
               "RelativeToolTip": "Lesson_21_routing_nav\\Components\\Pages\\Help.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-22T23:24:21.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "About.razor",
-              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson_21_routing_nav\\Lesson_21_routing_nav\\Components\\About.razor",
-              "RelativeDocumentMoniker": "Lesson_21_routing_nav\\Components\\About.razor",
-              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson_21_routing_nav\\Lesson_21_routing_nav\\Components\\About.razor",
-              "RelativeToolTip": "Lesson_21_routing_nav\\Components\\About.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-22T23:23:55.536Z",
               "EditorCaption": ""
             }
           ]
