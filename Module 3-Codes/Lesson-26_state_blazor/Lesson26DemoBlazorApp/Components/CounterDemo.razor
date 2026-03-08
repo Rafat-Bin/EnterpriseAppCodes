@@ -1,0 +1,13 @@
+﻿<h3>Counter Demo</h3>
+
+<p>Count: @count</p>
+
+<button @onclick="Increment">Increase</button>
+<button @onclick="Decrement">Decrease</button>
+
+@code {
+    private int count;
+
+    void Increment() => count++;
+    void Decrement() => count--;
+}

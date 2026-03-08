@@ -1,0 +1,49 @@
+﻿@using lesson25_EF_Core_Blazor.Models
+
+@if (Products == null)
+{
+    <p>Loading...</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Price</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var p in Products)
+            {
+                <tr>
+                    <td>@p.Name</td>
+                    <td>@p.Price</td>
+                    <td>
+                        <button @onclick="() => OnEdit.InvokeAsync(p)">
+                            Edit
+                        </button>
+
+                        <button @onclick="() => OnDelete.InvokeAsync(p.Id)">
+                            Delete
+                        </button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+
+    [Parameter]
+    public List<Product>? Products { get; set; }
+
+    [Parameter]
+    public EventCallback<Product> OnEdit { get; set; }
+
+    [Parameter]
+    public EventCallback<int> OnDelete { get; set; }
+
+}

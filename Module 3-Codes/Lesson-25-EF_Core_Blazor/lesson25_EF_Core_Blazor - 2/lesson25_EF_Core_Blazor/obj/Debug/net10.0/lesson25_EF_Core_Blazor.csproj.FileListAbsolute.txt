@@ -1,0 +1,240 @@
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\appsettings.json
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\lesson25_EF_Core_Blazor.staticwebassets.runtime.json
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\lesson25_EF_Core_Blazor.staticwebassets.endpoints.json
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\lesson25_EF_Core_Blazor.exe
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\lesson25_EF_Core_Blazor.deps.json
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\lesson25_EF_Core_Blazor.runtimeconfig.json
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\lesson25_EF_Core_Blazor.dll
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\lesson25_EF_Core_Blazor.pdb
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\Microsoft.Data.Sqlite.dll
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\SQLitePCLRaw.core.dll
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\EmbeddedAttribute.cs
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\ValidatableTypeAttribute.cs
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\lesson25_EF_Core_Blazor.csproj.AssemblyReference.cache
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\lesson25_EF_Core_Blazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\lesson25_EF_Core_Blazor.AssemblyInfoInputs.cache
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\lesson25_EF_Core_Blazor.AssemblyInfo.cs
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\lesson25_EF_Core_Blazor.csproj.CoreCompileInputs.cache
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\lesson25_EF_Core_Blazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\scopedcss\Components\Layout\ReconnectModal.razor.rz.scp.css
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\scopedcss\bundle\lesson25_EF_Core_Blazor.styles.css
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\scopedcss\projectbundle\lesson25_EF_Core_Blazor.bundle.scp.css
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\z35g9w2v73-{0}-khy4lop6wu-khy4lop6wu.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\wydlam3fq3-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\ybvkqq1qvz-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\t0h6y6wude-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\vqc46bmzt4-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\kc5w6r6wbf-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\xmxby6bjsn-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\9mt4w65tt7-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\aktqz4xhw9-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\e51poamjfh-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\uvld96tvj3-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\k70mo5mzax-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\uj72c6iw9w-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\o68avbkwnz-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\7rwugeoxwd-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\mh8gblbikz-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\9vf6a8ekrh-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\biu5g8fi90-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\g46f1jgox7-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\0ppmba5bxl-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\u8052j4ig2-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\9so6r7r3i6-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\utfarggafm-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\y6s2rqf11k-{0}-06098lyss8-06098lyss8.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\4xtpeoecjq-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\sijxcilssj-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\mq84a4yijp-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\a60qdm97gl-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\65rh0hy22a-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\47mm0kkyq0-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\pj50v45wtc-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\dr6khi8obv-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\a8g791e6z7-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\eujfnqu4c7-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\q84akijxnr-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\939ypawxhd-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\y17zhfwnmr-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\450gge6gku-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\ov3wo156hr-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\5iy9rqqjn3-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\bg2n3l8q15-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\buqiimtk3e-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\cb9vkxkt1m-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\y69dn1es0s-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\fi79iarwa8-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\iyf1k3of5a-{0}-abdmv1u4y3-abdmv1u4y3.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\32gawxwar7-{0}-ax6tuj8tun-ax6tuj8tun.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\qaydzvowfd-{0}-zr4b1gdhaw-zr4b1gdhaw.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\meyyonlyg7-{0}-2hbtn9ovht-2hbtn9ovht.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\sqoig7n57i-{0}-2hbtn9ovht-2hbtn9ovht.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\lesson25.2FE30BDD.Up2Date
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\lesson25_EF_Core_Blazor.dll
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\refint\lesson25_EF_Core_Blazor.dll
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\lesson25_EF_Core_Blazor.pdb
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\lesson25_EF_Core_Blazor.genruntimeconfig.cache
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor\lesson25_EF_Core_Blazor\obj\Debug\net10.0\ref\lesson25_EF_Core_Blazor.dll
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\appsettings.json
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\lesson25_EF_Core_Blazor.staticwebassets.endpoints.json
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\lesson25_EF_Core_Blazor.staticwebassets.runtime.json
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\lesson25_EF_Core_Blazor.exe
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\lesson25_EF_Core_Blazor.deps.json
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\lesson25_EF_Core_Blazor.runtimeconfig.json
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\lesson25_EF_Core_Blazor.dll
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\lesson25_EF_Core_Blazor.pdb
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\Microsoft.Data.Sqlite.dll
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\SQLitePCLRaw.core.dll
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\EmbeddedAttribute.cs
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\ValidatableTypeAttribute.cs
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\lesson25_EF_Core_Blazor.csproj.AssemblyReference.cache
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\lesson25_EF_Core_Blazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\lesson25_EF_Core_Blazor.AssemblyInfoInputs.cache
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\lesson25_EF_Core_Blazor.AssemblyInfo.cs
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\lesson25_EF_Core_Blazor.csproj.CoreCompileInputs.cache
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\lesson25_EF_Core_Blazor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\scopedcss\Components\Layout\ReconnectModal.razor.rz.scp.css
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\scopedcss\bundle\lesson25_EF_Core_Blazor.styles.css
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\scopedcss\projectbundle\lesson25_EF_Core_Blazor.bundle.scp.css
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\z35g9w2v73-{0}-khy4lop6wu-khy4lop6wu.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\wydlam3fq3-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\ybvkqq1qvz-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\t0h6y6wude-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\vqc46bmzt4-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\kc5w6r6wbf-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\xmxby6bjsn-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\9mt4w65tt7-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\aktqz4xhw9-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\e51poamjfh-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\uvld96tvj3-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\k70mo5mzax-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\uj72c6iw9w-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\o68avbkwnz-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\7rwugeoxwd-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\mh8gblbikz-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\9vf6a8ekrh-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\biu5g8fi90-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\g46f1jgox7-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\0ppmba5bxl-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\u8052j4ig2-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\9so6r7r3i6-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\utfarggafm-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\y6s2rqf11k-{0}-06098lyss8-06098lyss8.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\4xtpeoecjq-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\sijxcilssj-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\mq84a4yijp-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\a60qdm97gl-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\65rh0hy22a-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\47mm0kkyq0-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\pj50v45wtc-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\dr6khi8obv-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\a8g791e6z7-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\eujfnqu4c7-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\q84akijxnr-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\939ypawxhd-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\y17zhfwnmr-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\450gge6gku-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\ov3wo156hr-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\5iy9rqqjn3-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\bg2n3l8q15-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\buqiimtk3e-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\cb9vkxkt1m-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\y69dn1es0s-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\fi79iarwa8-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\iyf1k3of5a-{0}-abdmv1u4y3-abdmv1u4y3.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\32gawxwar7-{0}-ax6tuj8tun-ax6tuj8tun.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\qaydzvowfd-{0}-zr4b1gdhaw-zr4b1gdhaw.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\meyyonlyg7-{0}-2hbtn9ovht-2hbtn9ovht.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\compressed\sqoig7n57i-{0}-2hbtn9ovht-2hbtn9ovht.gz
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\lesson25.2FE30BDD.Up2Date
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\lesson25_EF_Core_Blazor.dll
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\refint\lesson25_EF_Core_Blazor.dll
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\lesson25_EF_Core_Blazor.pdb
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\lesson25_EF_Core_Blazor.genruntimeconfig.cache
+C:\Users\RAFATI\Desktop\Lesson-25-EF_Core_Blazor\lesson25_EF_Core_Blazor - 2\lesson25_EF_Core_Blazor\obj\Debug\net10.0\ref\lesson25_EF_Core_Blazor.dll

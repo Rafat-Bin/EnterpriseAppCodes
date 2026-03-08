@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RAFATI\\Desktop\\Lesson-25-EF_Core_Blazor\\lesson25_EF_Core_Blazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82F88D55-C2DD-9545-8DB6-932436556AB4}|lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor.csproj|c:\\users\\rafati\\desktop\\lesson-25-ef_core_blazor\\lesson25_ef_core_blazor\\lesson25_ef_core_blazor\\components\\pages\\productaddedit2.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82F88D55-C2DD-9545-8DB6-932436556AB4}|lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor.csproj|solutionrelative:lesson25_ef_core_blazor\\components\\pages\\productaddedit2.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F88D55-C2DD-9545-8DB6-932436556AB4}|lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor.csproj|c:\\users\\rafati\\desktop\\lesson-25-ef_core_blazor\\lesson25_ef_core_blazor\\lesson25_ef_core_blazor\\components\\pages\\productaddlist1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82F88D55-C2DD-9545-8DB6-932436556AB4}|lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor.csproj|solutionrelative:lesson25_ef_core_blazor\\components\\pages\\productaddlist1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F88D55-C2DD-9545-8DB6-932436556AB4}|lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor.csproj|c:\\users\\rafati\\desktop\\lesson-25-ef_core_blazor\\lesson25_ef_core_blazor\\lesson25_ef_core_blazor\\components\\pages\\productadddelete3.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{82F88D55-C2DD-9545-8DB6-932436556AB4}|lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor.csproj|solutionrelative:lesson25_ef_core_blazor\\components\\pages\\productadddelete3.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F88D55-C2DD-9545-8DB6-932436556AB4}|lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor.csproj|c:\\users\\rafati\\desktop\\lesson-25-ef_core_blazor\\lesson25_ef_core_blazor\\lesson25_ef_core_blazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F88D55-C2DD-9545-8DB6-932436556AB4}|lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor.csproj|solutionrelative:lesson25_ef_core_blazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F88D55-C2DD-9545-8DB6-932436556AB4}|lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor.csproj|c:\\users\\rafati\\desktop\\lesson-25-ef_core_blazor\\lesson25_ef_core_blazor\\lesson25_ef_core_blazor\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F88D55-C2DD-9545-8DB6-932436556AB4}|lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor.csproj|solutionrelative:lesson25_ef_core_blazor\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F88D55-C2DD-9545-8DB6-932436556AB4}|lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor.csproj|c:\\users\\rafati\\desktop\\lesson-25-ef_core_blazor\\lesson25_ef_core_blazor\\lesson25_ef_core_blazor\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F88D55-C2DD-9545-8DB6-932436556AB4}|lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor.csproj|solutionrelative:lesson25_ef_core_blazor\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82F88D55-C2DD-9545-8DB6-932436556AB4}|lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor.csproj|c:\\users\\rafati\\desktop\\lesson-25-ef_core_blazor\\lesson25_ef_core_blazor\\lesson25_ef_core_blazor\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82F88D55-C2DD-9545-8DB6-932436556AB4}|lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor.csproj|solutionrelative:lesson25_ef_core_blazor\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:469269523:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:202627798:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductAddDelete3.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson-25-EF_Core_Blazor\\lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor\\Components\\Pages\\ProductAddDelete3.razor",
+              "RelativeDocumentMoniker": "lesson25_EF_Core_Blazor\\Components\\Pages\\ProductAddDelete3.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson-25-EF_Core_Blazor\\lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor\\Components\\Pages\\ProductAddDelete3.razor",
+              "RelativeToolTip": "lesson25_EF_Core_Blazor\\Components\\Pages\\ProductAddDelete3.razor",
+              "ViewState": "AgIAAEEAAAAALjMzM7MSwA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-07T19:48:45.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductAddEdit2.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson-25-EF_Core_Blazor\\lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor\\Components\\Pages\\ProductAddEdit2.razor",
+              "RelativeDocumentMoniker": "lesson25_EF_Core_Blazor\\Components\\Pages\\ProductAddEdit2.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson-25-EF_Core_Blazor\\lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor\\Components\\Pages\\ProductAddEdit2.razor",
+              "RelativeToolTip": "lesson25_EF_Core_Blazor\\Components\\Pages\\ProductAddEdit2.razor",
+              "ViewState": "AgIAAEYAAAAAZ2ZmZmYkwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-07T19:47:12.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductAddList1.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson-25-EF_Core_Blazor\\lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor\\Components\\Pages\\ProductAddList1.razor",
+              "RelativeDocumentMoniker": "lesson25_EF_Core_Blazor\\Components\\Pages\\ProductAddList1.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson-25-EF_Core_Blazor\\lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor\\Components\\Pages\\ProductAddList1.razor",
+              "RelativeToolTip": "lesson25_EF_Core_Blazor\\Components\\Pages\\ProductAddList1.razor",
+              "ViewState": "AgIAACoAAAAAMzMzM5MwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-07T19:44:07.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson-25-EF_Core_Blazor\\lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor\\Program.cs",
+              "RelativeDocumentMoniker": "lesson25_EF_Core_Blazor\\Program.cs",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson-25-EF_Core_Blazor\\lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor\\Program.cs",
+              "RelativeToolTip": "lesson25_EF_Core_Blazor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T19:27:12.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson-25-EF_Core_Blazor\\lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "lesson25_EF_Core_Blazor\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson-25-EF_Core_Blazor\\lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor\\Models\\Product.cs",
+              "RelativeToolTip": "lesson25_EF_Core_Blazor\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T19:21:23.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson-25-EF_Core_Blazor\\lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "lesson25_EF_Core_Blazor\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson-25-EF_Core_Blazor\\lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor\\Services\\ProductService.cs",
+              "RelativeToolTip": "lesson25_EF_Core_Blazor\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T19:21:09.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson-25-EF_Core_Blazor\\lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "lesson25_EF_Core_Blazor\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson-25-EF_Core_Blazor\\lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "lesson25_EF_Core_Blazor\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T19:21:51.302Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

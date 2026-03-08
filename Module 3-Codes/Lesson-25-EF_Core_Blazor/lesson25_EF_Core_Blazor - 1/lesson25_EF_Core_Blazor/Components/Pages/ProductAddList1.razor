@@ -1,0 +1,70 @@
+﻿@page "/p1"
+@using lesson25_EF_Core_Blazor.Models
+@using lesson25_EF_Core_Blazor.Services
+@inject ProductService ProductService
+
+<h3>Products</h3>
+
+@if (products == null)
+{
+    <p>Loading...</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var p in products)
+            {
+                <tr>
+                    <td>@p.Name</td>
+                    <td>@p.Price</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<hr />
+
+<h4>Add Product</h4>
+
+<EditForm Model="formModel" OnValidSubmit="AddProduct">
+    <div>
+        <label>Name:</label>
+        <InputText @bind-Value="formModel.Name" />
+    </div>
+
+    <div>
+        <label>Price:</label>
+        <InputNumber @bind-Value="formModel.Price" />
+    </div>
+
+    <button type="submit">Add</button>
+</EditForm>
+
+@code {
+
+    private List<Product>? products;
+
+    private Product formModel = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        products = await ProductService.ListProductsAsync();
+    }
+
+    private async Task AddProduct()
+    {
+        await ProductService.AddProductAsync(formModel);
+
+        products = await ProductService.ListProductsAsync();
+
+        formModel = new Product();
+    }
+}

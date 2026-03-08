@@ -1,0 +1,44 @@
+﻿@using lesson25_EF_Core_Blazor.Models
+
+<h4>@(IsEditMode ? "Edit Product" : "Add Product")</h4>
+
+<EditForm Model="Model" OnValidSubmit="OnSave">
+
+    <div>
+        <label>Name:</label>
+        <InputText @bind-Value="Model.Name" />
+    </div>
+
+    <div>
+        <label>Price:</label>
+        <InputNumber @bind-Value="Model.Price" />
+    </div>
+
+    <button type="submit">
+        @(IsEditMode ? "Update" : "Add")
+    </button>
+
+    @if (IsEditMode)
+    {
+        <button type="button" @onclick="OnCancel">
+            Cancel
+        </button>
+    }
+
+</EditForm>
+
+@code {
+
+    [Parameter]
+    public Product Model { get; set; } = new();
+
+    [Parameter]
+    public bool IsEditMode { get; set; }
+
+    [Parameter]
+    public EventCallback OnSave { get; set; }
+
+    [Parameter]
+    public EventCallback OnCancel { get; set; }
+
+}

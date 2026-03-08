@@ -1,0 +1,13 @@
+﻿<h3>State Parent</h3>
+
+<p>Shared Value: @sharedValue</p>
+
+<input type="number" @bind="sharedValue" />
+
+<CascadingValue Value="sharedValue">
+    <StateChild />
+</CascadingValue>
+
+@code {
+    private int sharedValue = 42;
+}

@@ -1,0 +1,118 @@
+﻿@page "/p3"
+@using lesson25_EF_Core_Blazor.Models
+@using lesson25_EF_Core_Blazor.Services
+@inject ProductService ProductService
+@inject IJSRuntime JSRuntime
+
+<h3>Products</h3>
+
+@if (products == null)
+{
+    <p>Loading...</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Price</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var p in products)
+            {
+                <tr>
+                    <td>@p.Name</td>
+                    <td>@p.Price</td>
+                    <td>
+                        <button @onclick="() => BeginEdit(p)">Edit</button>
+
+                        <button @onclick="() => DeleteProduct(p.Id)">
+                            Delete
+                        </button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<hr />
+
+<h4>@(isEditMode ? "Edit Product" : "Add Product")</h4>
+
+<EditForm Model="formModel" OnValidSubmit="SaveProduct">
+
+    <div>
+        <label>Name:</label>
+        <InputText @bind-Value="formModel.Name" />
+    </div>
+
+    <div>
+        <label>Price:</label>
+        <InputNumber @bind-Value="formModel.Price" />
+    </div>
+
+    <button type="submit">
+        @(isEditMode ? "Update" : "Add")
+    </button>
+
+</EditForm>
+
+@code {
+
+    private List<Product>? products;
+
+    private Product formModel = new();
+
+    private bool isEditMode = false;
+
+    protected override async Task OnInitializedAsync()
+    {
+        products = await ProductService.ListProductsAsync();
+    }
+
+    private async Task SaveProduct()
+    {
+        if (isEditMode)
+        {
+            await ProductService.UpdateProductAsync(formModel);
+        }
+        else
+        {
+            await ProductService.AddProductAsync(formModel);
+        }
+
+        products = await ProductService.ListProductsAsync();
+
+        formModel = new Product();
+        isEditMode = false;
+    }
+
+    private void BeginEdit(Product product)
+    {
+        formModel = new Product
+        {
+            Id = product.Id,
+            Name = product.Name,
+            Price = product.Price
+        };
+
+        isEditMode = true;
+    }
+
+    private async Task DeleteProduct(int id)
+    {
+        bool confirmed = await JSRuntime.InvokeAsync<bool>(
+            "confirm", "Delete this product?");
+
+        if (!confirmed)
+            return;
+
+        await ProductService.DeleteProductAsync(id);
+
+        products = await ProductService.ListProductsAsync();
+    }
+}
