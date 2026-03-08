@@ -40,9 +40,7 @@ using (var scope = app.Services.CreateScope())
 {
     var dbContext = scope.ServiceProvider.GetRequiredService<AppDbContext>();
     dbContext.Database.EnsureCreated();
-    // NOTE:
-    // We are using EnsureCreated() only for simplicity in this lesson.
-    // In real-world applications, always use EF Core migrations instead.
+
 }
 
 //...................................
