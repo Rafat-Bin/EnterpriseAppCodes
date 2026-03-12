@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3s8dwpt2QFA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RAFATI\\Desktop\\Lesson-27_auth_blazor\\Lesson-27_auth_blazor\\Lesson-27_auth_blazor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RAFATI\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.4\\microsoft.aspnetcore.app.internal.assets.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

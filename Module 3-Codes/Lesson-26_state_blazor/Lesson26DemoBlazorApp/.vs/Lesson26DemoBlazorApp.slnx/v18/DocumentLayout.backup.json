@@ -1,42 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\RAFATI\\Desktop\\Lesson26DemoBlazorApp\\",
+  "WorkspaceRootPath": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-26_state_blazor\\Lesson26DemoBlazorApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F3C55FC-6750-18D6-0933-A09967D6E002}|Lesson26DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\lesson26demoblazorapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8F3C55FC-6750-18D6-0933-A09967D6E002}|Lesson26DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 3-codes\\lesson-26_state_blazor\\lesson26demoblazorapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8F3C55FC-6750-18D6-0933-A09967D6E002}|Lesson26DemoBlazorApp.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F3C55FC-6750-18D6-0933-A09967D6E002}|Lesson26DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\lesson26demoblazorapp\\components\\stateparent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F3C55FC-6750-18D6-0933-A09967D6E002}|Lesson26DemoBlazorApp.csproj|solutionrelative:components\\stateparent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F3C55FC-6750-18D6-0933-A09967D6E002}|Lesson26DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\lesson26demoblazorapp\\components\\statechild.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F3C55FC-6750-18D6-0933-A09967D6E002}|Lesson26DemoBlazorApp.csproj|solutionrelative:components\\statechild.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F3C55FC-6750-18D6-0933-A09967D6E002}|Lesson26DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\lesson26demoblazorapp\\services\\cartstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F3C55FC-6750-18D6-0933-A09967D6E002}|Lesson26DemoBlazorApp.csproj|solutionrelative:services\\cartstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F3C55FC-6750-18D6-0933-A09967D6E002}|Lesson26DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\lesson26demoblazorapp\\components\\pages\\cart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8F3C55FC-6750-18D6-0933-A09967D6E002}|Lesson26DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 3-codes\\lesson-26_state_blazor\\lesson26demoblazorapp\\components\\pages\\cart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8F3C55FC-6750-18D6-0933-A09967D6E002}|Lesson26DemoBlazorApp.csproj|solutionrelative:components\\pages\\cart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F3C55FC-6750-18D6-0933-A09967D6E002}|Lesson26DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\lesson26demoblazorapp\\components\\pages\\productlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8F3C55FC-6750-18D6-0933-A09967D6E002}|Lesson26DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 3-codes\\lesson-26_state_blazor\\lesson26demoblazorapp\\components\\pages\\productlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8F3C55FC-6750-18D6-0933-A09967D6E002}|Lesson26DemoBlazorApp.csproj|solutionrelative:components\\pages\\productlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F3C55FC-6750-18D6-0933-A09967D6E002}|Lesson26DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\lesson26demoblazorapp\\components\\counterdemo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8F3C55FC-6750-18D6-0933-A09967D6E002}|Lesson26DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 3-codes\\lesson-26_state_blazor\\lesson26demoblazorapp\\services\\cartstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3C55FC-6750-18D6-0933-A09967D6E002}|Lesson26DemoBlazorApp.csproj|solutionrelative:services\\cartstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3C55FC-6750-18D6-0933-A09967D6E002}|Lesson26DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 3-codes\\lesson-26_state_blazor\\lesson26demoblazorapp\\components\\counterdemo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8F3C55FC-6750-18D6-0933-A09967D6E002}|Lesson26DemoBlazorApp.csproj|solutionrelative:components\\counterdemo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F3C55FC-6750-18D6-0933-A09967D6E002}|Lesson26DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\lesson26demoblazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F3C55FC-6750-18D6-0933-A09967D6E002}|Lesson26DemoBlazorApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F3C55FC-6750-18D6-0933-A09967D6E002}|Lesson26DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 3-codes\\lesson-26_state_blazor\\lesson26demoblazorapp\\components\\stateparent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F3C55FC-6750-18D6-0933-A09967D6E002}|Lesson26DemoBlazorApp.csproj|solutionrelative:components\\stateparent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F3C55FC-6750-18D6-0933-A09967D6E002}|Lesson26DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\lesson26demoblazorapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F3C55FC-6750-18D6-0933-A09967D6E002}|Lesson26DemoBlazorApp.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8F3C55FC-6750-18D6-0933-A09967D6E002}|Lesson26DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 3-codes\\lesson-26_state_blazor\\lesson26demoblazorapp\\components\\statechild.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F3C55FC-6750-18D6-0933-A09967D6E002}|Lesson26DemoBlazorApp.csproj|solutionrelative:components\\statechild.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3C55FC-6750-18D6-0933-A09967D6E002}|Lesson26DemoBlazorApp.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 3-codes\\lesson-26_state_blazor\\lesson26demoblazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3C55FC-6750-18D6-0933-A09967D6E002}|Lesson26DemoBlazorApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,75 +58,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StateChild.razor",
-              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson26DemoBlazorApp\\Components\\StateChild.razor",
-              "RelativeDocumentMoniker": "Components\\StateChild.razor",
-              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson26DemoBlazorApp\\Components\\StateChild.razor",
-              "RelativeToolTip": "Components\\StateChild.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "StateParent.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-26_state_blazor\\Lesson26DemoBlazorApp\\Components\\StateParent.razor",
+              "RelativeDocumentMoniker": "Components\\StateParent.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-26_state_blazor\\Lesson26DemoBlazorApp\\Components\\StateParent.razor",
+              "RelativeToolTip": "Components\\StateParent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-17T04:53:41.626Z",
+              "WhenOpened": "2026-03-10T20:37:38.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CounterDemo.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-26_state_blazor\\Lesson26DemoBlazorApp\\Components\\CounterDemo.razor",
+              "RelativeDocumentMoniker": "Components\\CounterDemo.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-26_state_blazor\\Lesson26DemoBlazorApp\\Components\\CounterDemo.razor",
+              "RelativeToolTip": "Components\\CounterDemo.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T20:30:33.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductList.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-26_state_blazor\\Lesson26DemoBlazorApp\\Components\\Pages\\ProductList.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\ProductList.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-26_state_blazor\\Lesson26DemoBlazorApp\\Components\\Pages\\ProductList.razor",
+              "RelativeToolTip": "Components\\Pages\\ProductList.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T04:56:32.336Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StateParent.razor",
-              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson26DemoBlazorApp\\Components\\StateParent.razor",
-              "RelativeDocumentMoniker": "Components\\StateParent.razor",
-              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson26DemoBlazorApp\\Components\\StateParent.razor",
-              "RelativeToolTip": "Components\\StateParent.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-17T04:53:24.194Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductList.razor",
-              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson26DemoBlazorApp\\Components\\Pages\\ProductList.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\ProductList.razor",
-              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson26DemoBlazorApp\\Components\\Pages\\ProductList.razor",
-              "RelativeToolTip": "Components\\Pages\\ProductList.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-17T04:56:32.336Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Cart.razor",
-              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson26DemoBlazorApp\\Components\\Pages\\Cart.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-26_state_blazor\\Lesson26DemoBlazorApp\\Components\\Pages\\Cart.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Cart.razor",
-              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson26DemoBlazorApp\\Components\\Pages\\Cart.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-26_state_blazor\\Lesson26DemoBlazorApp\\Components\\Pages\\Cart.razor",
               "RelativeToolTip": "Components\\Pages\\Cart.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-17T04:57:14.112Z"
+              "WhenOpened": "2025-11-17T04:57:14.112Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "CartState.cs",
-              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson26DemoBlazorApp\\Services\\CartState.cs",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-26_state_blazor\\Lesson26DemoBlazorApp\\Services\\CartState.cs",
               "RelativeDocumentMoniker": "Services\\CartState.cs",
-              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson26DemoBlazorApp\\Services\\CartState.cs",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-26_state_blazor\\Lesson26DemoBlazorApp\\Services\\CartState.cs",
               "RelativeToolTip": "Services\\CartState.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T04:55:46.513Z"
+              "WhenOpened": "2025-11-17T04:55:46.513Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson26DemoBlazorApp\\Components\\Pages\\Home.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-26_state_blazor\\Lesson26DemoBlazorApp\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson26DemoBlazorApp\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-26_state_blazor\\Lesson26DemoBlazorApp\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-17T04:47:03.73Z",
               "EditorCaption": ""
@@ -138,38 +137,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "CounterDemo.razor",
-              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson26DemoBlazorApp\\Components\\CounterDemo.razor",
-              "RelativeDocumentMoniker": "Components\\CounterDemo.razor",
-              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson26DemoBlazorApp\\Components\\CounterDemo.razor",
-              "RelativeToolTip": "Components\\CounterDemo.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "StateChild.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-26_state_blazor\\Lesson26DemoBlazorApp\\Components\\StateChild.razor",
+              "RelativeDocumentMoniker": "Components\\StateChild.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-26_state_blazor\\Lesson26DemoBlazorApp\\Components\\StateChild.razor",
+              "RelativeToolTip": "Components\\StateChild.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-17T04:52:04.084Z"
+              "WhenOpened": "2026-03-10T20:37:25.922Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson26DemoBlazorApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-26_state_blazor\\Lesson26DemoBlazorApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson26DemoBlazorApp\\Program.cs",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-26_state_blazor\\Lesson26DemoBlazorApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T04:55:59.092Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson26DemoBlazorApp\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson26DemoBlazorApp\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-17T03:13:05.809Z"
+              "WhenOpened": "2025-11-17T04:55:59.092Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,19 @@
+﻿@using Lesson_27_auth_blazor.Services
+@page "/login"
+
+@inject AuthService AuthService
+@inject NavigationManager Navigation
+
+<h3>Login Page</h3>
+
+<button @onclick="LoginUser">Login</button>
+
+@code {
+
+    void LoginUser()
+    {
+        AuthService.Login();
+        Navigation.NavigateTo("/");
+    }
+
+}

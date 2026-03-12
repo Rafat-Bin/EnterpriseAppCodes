@@ -1,0 +1,33 @@
+﻿@page "/"
+
+@using Lesson_27_auth_blazor.Services
+
+@inject AuthService AuthService
+@inject NavigationManager Navigation
+
+<h3>Home Page</h3>
+
+@if (AuthService.IsLoggedIn)
+{
+    <p>You are logged in.</p>
+    <button @onclick="LogoutUser">Logout</button>
+}
+else
+{
+    <p>You are not logged in.</p>
+    <button @onclick="GoToLogin">Login</button>
+}
+
+@code {
+
+    void GoToLogin()
+    {
+        Navigation.NavigateTo("/login");
+    }
+
+    void LogoutUser()
+    {
+        AuthService.Logout();
+    }
+
+}

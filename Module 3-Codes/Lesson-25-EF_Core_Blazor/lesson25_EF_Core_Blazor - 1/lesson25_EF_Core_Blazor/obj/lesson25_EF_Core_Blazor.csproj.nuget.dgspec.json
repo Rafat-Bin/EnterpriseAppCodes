@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RAFATI\\Desktop\\Lesson-25-EF_Core_Blazor\\lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor.csproj": {}
+    "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-25-EF_Core_Blazor\\lesson25_EF_Core_Blazor - 1\\lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RAFATI\\Desktop\\Lesson-25-EF_Core_Blazor\\lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor.csproj": {
+    "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-25-EF_Core_Blazor\\lesson25_EF_Core_Blazor - 1\\lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RAFATI\\Desktop\\Lesson-25-EF_Core_Blazor\\lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor.csproj",
+        "projectUniqueName": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-25-EF_Core_Blazor\\lesson25_EF_Core_Blazor - 1\\lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor.csproj",
         "projectName": "lesson25_EF_Core_Blazor",
-        "projectPath": "C:\\Users\\RAFATI\\Desktop\\Lesson-25-EF_Core_Blazor\\lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor.csproj",
+        "projectPath": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-25-EF_Core_Blazor\\lesson25_EF_Core_Blazor - 1\\lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor.csproj",
         "packagesPath": "C:\\Users\\RAFATI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RAFATI\\Desktop\\Lesson-25-EF_Core_Blazor\\lesson25_EF_Core_Blazor\\lesson25_EF_Core_Blazor\\obj\\",
+        "outputPath": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\Lesson-25-EF_Core_Blazor\\lesson25_EF_Core_Blazor - 1\\lesson25_EF_Core_Blazor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
