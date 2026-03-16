@@ -1,0 +1,17 @@
+﻿@page "/test"
+
+@using BinsteamProjectSystem.DAL
+@inject StarTED_TestContext db
+
+<h3>DB Test</h3>
+
+<p>Total Employees: @count</p>
+
+@code {
+    int count;
+
+    protected override void OnInitialized()
+    {
+        count = db.ClubActivities.Count();
+    }
+}

@@ -1,0 +1,12 @@
+C:\Users\RAFATI\Desktop\BinteamProjectSolution\BinsteamProjectSystem\bin\Debug\net10.0\BinsteamProjectSystem.deps.json
+C:\Users\RAFATI\Desktop\BinteamProjectSolution\BinsteamProjectSystem\bin\Debug\net10.0\BinsteamProjectSystem.dll
+C:\Users\RAFATI\Desktop\BinteamProjectSolution\BinsteamProjectSystem\bin\Debug\net10.0\BinsteamProjectSystem.pdb
+C:\Users\RAFATI\Desktop\BinteamProjectSolution\BinsteamProjectSystem\obj\Debug\net10.0\BinsteamProjectSystem.csproj.AssemblyReference.cache
+C:\Users\RAFATI\Desktop\BinteamProjectSolution\BinsteamProjectSystem\obj\Debug\net10.0\BinsteamProjectSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAFATI\Desktop\BinteamProjectSolution\BinsteamProjectSystem\obj\Debug\net10.0\BinsteamProjectSystem.AssemblyInfoInputs.cache
+C:\Users\RAFATI\Desktop\BinteamProjectSolution\BinsteamProjectSystem\obj\Debug\net10.0\BinsteamProjectSystem.AssemblyInfo.cs
+C:\Users\RAFATI\Desktop\BinteamProjectSolution\BinsteamProjectSystem\obj\Debug\net10.0\BinsteamProjectSystem.csproj.CoreCompileInputs.cache
+C:\Users\RAFATI\Desktop\BinteamProjectSolution\BinsteamProjectSystem\obj\Debug\net10.0\BinsteamProjectSystem.dll
+C:\Users\RAFATI\Desktop\BinteamProjectSolution\BinsteamProjectSystem\obj\Debug\net10.0\refint\BinsteamProjectSystem.dll
+C:\Users\RAFATI\Desktop\BinteamProjectSolution\BinsteamProjectSystem\obj\Debug\net10.0\BinsteamProjectSystem.pdb
+C:\Users\RAFATI\Desktop\BinteamProjectSolution\BinsteamProjectSystem\obj\Debug\net10.0\ref\BinsteamProjectSystem.dll

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Binsteam.BlazorApp/Binsteam.BlazorApp.csproj" />
+  <Project Path="BinsteamProjectSystem/BinsteamProjectSystem.csproj" />
+</Solution>
