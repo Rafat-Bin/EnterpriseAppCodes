@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ah2BKLoDDjw=",
+  "dgSpecHash": "bxAvJNak4uE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\BinteamProjectSolution\\BinsteamProjectSystem\\BinsteamProjectSystem.csproj",
+  "projectFilePath": "C:\\Users\\RAFATI\\Desktop\\BinteamProjectSolution\\BinsteamProjectSystem\\BinsteamProjectSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RAFATI\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\RAFATI\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -1737,11 +1737,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\BinteamProjectSolution\\BinsteamProjectSystem\\BinsteamProjectSystem.csproj",
+      "projectUniqueName": "C:\\Users\\RAFATI\\Desktop\\BinteamProjectSolution\\BinsteamProjectSystem\\BinsteamProjectSystem.csproj",
       "projectName": "BinsteamProjectSystem",
-      "projectPath": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\BinteamProjectSolution\\BinsteamProjectSystem\\BinsteamProjectSystem.csproj",
+      "projectPath": "C:\\Users\\RAFATI\\Desktop\\BinteamProjectSolution\\BinsteamProjectSystem\\BinsteamProjectSystem.csproj",
       "packagesPath": "C:\\Users\\RAFATI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\BinteamProjectSolution\\BinsteamProjectSystem\\obj\\",
+      "outputPath": "C:\\Users\\RAFATI\\Desktop\\BinteamProjectSolution\\BinsteamProjectSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

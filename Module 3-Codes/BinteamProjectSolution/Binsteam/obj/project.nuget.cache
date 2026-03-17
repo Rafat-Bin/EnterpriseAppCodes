@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NOKLtpSIdpQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RAFATI\\Desktop\\BinteamProjectSolution\\Binsteam\\Binsteam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RAFATI\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.4\\microsoft.aspnetcore.app.internal.assets.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
