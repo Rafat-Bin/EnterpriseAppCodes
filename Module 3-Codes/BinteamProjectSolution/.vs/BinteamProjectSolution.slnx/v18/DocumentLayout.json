@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\RAFATI\\Desktop\\BinteamProjectSolution\\",
+  "WorkspaceRootPath": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\BinteamProjectSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2190042-D10A-4427-A152-B8CFD0BE236A}|Binsteam.BlazorApp\\Binsteam.BlazorApp.csproj|c:\\users\\rafati\\desktop\\binteamprojectsolution\\binsteam.blazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2190042-D10A-4427-A152-B8CFD0BE236A}|Binsteam.BlazorApp\\Binsteam.BlazorApp.csproj|solutionrelative:binsteam.blazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{520D9F1E-3879-D5D1-1DB1-79B66CC73296}|Binsteam.BlazorApp\\Binsteam.BlazorApp.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 3-codes\\binteamprojectsolution\\binsteam.blazorapp\\components\\pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{520D9F1E-3879-D5D1-1DB1-79B66CC73296}|Binsteam.BlazorApp\\Binsteam.BlazorApp.csproj|solutionrelative:binsteam.blazorapp\\components\\pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2190042-D10A-4427-A152-B8CFD0BE236A}|Binsteam.BlazorApp\\Binsteam.BlazorApp.csproj|c:\\users\\rafati\\desktop\\binteamprojectsolution\\binsteam.blazorapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E2190042-D10A-4427-A152-B8CFD0BE236A}|Binsteam.BlazorApp\\Binsteam.BlazorApp.csproj|solutionrelative:binsteam.blazorapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{520D9F1E-3879-D5D1-1DB1-79B66CC73296}|Binsteam.BlazorApp\\Binsteam.BlazorApp.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 3-codes\\binteamprojectsolution\\binsteam.blazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520D9F1E-3879-D5D1-1DB1-79B66CC73296}|Binsteam.BlazorApp\\Binsteam.BlazorApp.csproj|solutionrelative:binsteam.blazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2190042-D10A-4427-A152-B8CFD0BE236A}|Binsteam.BlazorApp\\Binsteam.BlazorApp.csproj|c:\\users\\rafati\\desktop\\binteamprojectsolution\\binsteam.blazorapp\\components\\pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E2190042-D10A-4427-A152-B8CFD0BE236A}|Binsteam.BlazorApp\\Binsteam.BlazorApp.csproj|solutionrelative:binsteam.blazorapp\\components\\pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{520D9F1E-3879-D5D1-1DB1-79B66CC73296}|Binsteam.BlazorApp\\Binsteam.BlazorApp.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 3-codes\\binteamprojectsolution\\binsteam.blazorapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{520D9F1E-3879-D5D1-1DB1-79B66CC73296}|Binsteam.BlazorApp\\Binsteam.BlazorApp.csproj|solutionrelative:binsteam.blazorapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67354C66-559D-43BB-A2C1-EC8DB13061BA}|BinsteamProjectSystem\\BinsteamProjectSystem.csproj|c:\\users\\rafati\\desktop\\binteamprojectsolution\\binsteamprojectsystem\\dal\\started_testcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67354C66-559D-43BB-A2C1-EC8DB13061BA}|BinsteamProjectSystem\\BinsteamProjectSystem.csproj|solutionrelative:binsteamprojectsystem\\dal\\started_testcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{039C028B-664B-0D7F-ECEC-213B19EA1FAD}|BinsteamProjectSystem\\BinsteamProjectSystem.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 3-codes\\binteamprojectsolution\\binsteamprojectsystem\\dal\\started_testcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{039C028B-664B-0D7F-ECEC-213B19EA1FAD}|BinsteamProjectSystem\\BinsteamProjectSystem.csproj|solutionrelative:binsteamprojectsystem\\dal\\started_testcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67354C66-559D-43BB-A2C1-EC8DB13061BA}|BinsteamProjectSystem\\BinsteamProjectSystem.csproj|c:\\users\\rafati\\desktop\\binteamprojectsolution\\binsteamprojectsystem\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67354C66-559D-43BB-A2C1-EC8DB13061BA}|BinsteamProjectSystem\\BinsteamProjectSystem.csproj|solutionrelative:binsteamprojectsystem\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{039C028B-664B-0D7F-ECEC-213B19EA1FAD}|BinsteamProjectSystem\\BinsteamProjectSystem.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 3-codes\\binteamprojectsolution\\binsteamprojectsystem\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{039C028B-664B-0D7F-ECEC-213B19EA1FAD}|BinsteamProjectSystem\\BinsteamProjectSystem.csproj|solutionrelative:binsteamprojectsystem\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,11 +46,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Component.razor",
-              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\BinteamProjectSolution\\Binsteam.BlazorApp\\Components\\Pages\\Component.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\BinteamProjectSolution\\Binsteam.BlazorApp\\Components\\Pages\\Component.razor",
               "RelativeDocumentMoniker": "Binsteam.BlazorApp\\Components\\Pages\\Component.razor",
-              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\BinteamProjectSolution\\Binsteam.BlazorApp\\Components\\Pages\\Component.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\BinteamProjectSolution\\Binsteam.BlazorApp\\Components\\Pages\\Component.razor",
               "RelativeToolTip": "Binsteam.BlazorApp\\Components\\Pages\\Component.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -59,11 +59,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\BinteamProjectSolution\\Binsteam.BlazorApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\BinteamProjectSolution\\Binsteam.BlazorApp\\Program.cs",
               "RelativeDocumentMoniker": "Binsteam.BlazorApp\\Program.cs",
-              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\BinteamProjectSolution\\Binsteam.BlazorApp\\Program.cs",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\BinteamProjectSolution\\Binsteam.BlazorApp\\Program.cs",
               "RelativeToolTip": "Binsteam.BlazorApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,42 +72,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\BinteamProjectSolution\\Binsteam.BlazorApp\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\BinteamProjectSolution\\Binsteam.BlazorApp\\appsettings.json",
               "RelativeDocumentMoniker": "Binsteam.BlazorApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\BinteamProjectSolution\\Binsteam.BlazorApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\BinteamProjectSolution\\Binsteam.BlazorApp\\appsettings.json",
               "RelativeToolTip": "Binsteam.BlazorApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-16T01:15:19.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T01:15:19.989Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "StarTED_TestContext.cs",
-              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\BinteamProjectSolution\\BinsteamProjectSystem\\DAL\\StarTED_TestContext.cs",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\BinteamProjectSolution\\BinsteamProjectSystem\\DAL\\StarTED_TestContext.cs",
               "RelativeDocumentMoniker": "BinsteamProjectSystem\\DAL\\StarTED_TestContext.cs",
-              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\BinteamProjectSolution\\BinsteamProjectSystem\\DAL\\StarTED_TestContext.cs",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\BinteamProjectSolution\\BinsteamProjectSystem\\DAL\\StarTED_TestContext.cs",
               "RelativeToolTip": "BinsteamProjectSystem\\DAL\\StarTED_TestContext.cs",
               "ViewState": "AgIAAAwAAACAAQAAAIAowBIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T00:47:02.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T00:47:02.152Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\BinteamProjectSolution\\BinsteamProjectSystem\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\BinteamProjectSolution\\BinsteamProjectSystem\\Class1.cs",
               "RelativeDocumentMoniker": "BinsteamProjectSystem\\Class1.cs",
-              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\BinteamProjectSolution\\BinsteamProjectSystem\\Class1.cs",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 3-Codes\\BinteamProjectSolution\\BinsteamProjectSystem\\Class1.cs",
               "RelativeToolTip": "BinsteamProjectSystem\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T00:22:52.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T00:22:52.621Z"
             }
           ]
         }
