@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson34-MAUI_into\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD67467-A54E-4E99-B711-F73D36B779FC}|Lesson34MauiBlazorIntro\\Lesson34MauiBlazorIntro.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 4-codes\\lesson34-maui_into\\lesson34mauiblazorintro\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BD67467-A54E-4E99-B711-F73D36B779FC}|Lesson34MauiBlazorIntro\\Lesson34MauiBlazorIntro.csproj|solutionrelative:lesson34mauiblazorintro\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD67467-A54E-4E99-B711-F73D36B779FC}|Lesson34MauiBlazorIntro\\Lesson34MauiBlazorIntro.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 4-codes\\lesson34-maui_into\\lesson34mauiblazorintro\\components\\pages\\hello.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BD67467-A54E-4E99-B711-F73D36B779FC}|Lesson34MauiBlazorIntro\\Lesson34MauiBlazorIntro.csproj|solutionrelative:lesson34mauiblazorintro\\components\\pages\\hello.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD67467-A54E-4E99-B711-F73D36B779FC}|Lesson34MauiBlazorIntro\\Lesson34MauiBlazorIntro.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 4-codes\\lesson34-maui_into\\lesson34mauiblazorintro\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BD67467-A54E-4E99-B711-F73D36B779FC}|Lesson34MauiBlazorIntro\\Lesson34MauiBlazorIntro.csproj|solutionrelative:lesson34mauiblazorintro\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD67467-A54E-4E99-B711-F73D36B779FC}|Lesson34MauiBlazorIntro\\Lesson34MauiBlazorIntro.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 4-codes\\lesson34-maui_into\\lesson34mauiblazorintro\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BD67467-A54E-4E99-B711-F73D36B779FC}|Lesson34MauiBlazorIntro\\Lesson34MauiBlazorIntro.csproj|solutionrelative:lesson34mauiblazorintro\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:469269523:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:202627798:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson34-MAUI_into\\Lesson34MauiBlazorIntro\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Lesson34MauiBlazorIntro\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson34-MAUI_into\\Lesson34MauiBlazorIntro\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Lesson34MauiBlazorIntro\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T03:07:09.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson34-MAUI_into\\Lesson34MauiBlazorIntro\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Lesson34MauiBlazorIntro\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson34-MAUI_into\\Lesson34MauiBlazorIntro\\wwwroot\\index.html",
+              "RelativeToolTip": "Lesson34MauiBlazorIntro\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-31T03:01:35.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson34-MAUI_into\\Lesson34MauiBlazorIntro\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Lesson34MauiBlazorIntro\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson34-MAUI_into\\Lesson34MauiBlazorIntro\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Lesson34MauiBlazorIntro\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAA8AAAAANTMzMzP7vxoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T02:13:42.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hello.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson34-MAUI_into\\Lesson34MauiBlazorIntro\\Components\\Pages\\Hello.razor",
+              "RelativeDocumentMoniker": "Lesson34MauiBlazorIntro\\Components\\Pages\\Hello.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson34-MAUI_into\\Lesson34MauiBlazorIntro\\Components\\Pages\\Hello.razor",
+              "RelativeToolTip": "Lesson34MauiBlazorIntro\\Components\\Pages\\Hello.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T02:12:50.831Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

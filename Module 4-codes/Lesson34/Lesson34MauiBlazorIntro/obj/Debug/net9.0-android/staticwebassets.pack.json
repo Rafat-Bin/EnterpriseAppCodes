@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson34-MAUI_into\\Lesson34MauiBlazorIntro\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\Lesson34MauiBlazorIntro.styles.css",
+      "PackagePath": "staticwebassets\\Lesson34MauiBlazorIntro.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson34-MAUI_into\\Lesson34MauiBlazorIntro\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson34-MAUI_into\\Lesson34MauiBlazorIntro\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson34-MAUI_into\\Lesson34MauiBlazorIntro\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson34-MAUI_into\\Lesson34MauiBlazorIntro\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.Lesson34MauiBlazorIntro.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.Lesson34MauiBlazorIntro.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.build.Lesson34MauiBlazorIntro.props",
+      "PackagePath": "build\\Lesson34MauiBlazorIntro.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.buildMultiTargeting.Lesson34MauiBlazorIntro.props",
+      "PackagePath": "buildMultiTargeting\\Lesson34MauiBlazorIntro.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-android\\staticwebassets\\msbuild.buildTransitive.Lesson34MauiBlazorIntro.props",
+      "PackagePath": "buildTransitive\\Lesson34MauiBlazorIntro.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

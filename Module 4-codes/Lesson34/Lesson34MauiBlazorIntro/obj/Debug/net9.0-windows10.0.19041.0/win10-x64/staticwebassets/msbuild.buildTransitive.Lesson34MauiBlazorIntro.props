@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Lesson34MauiBlazorIntro.props" />
+</Project>
