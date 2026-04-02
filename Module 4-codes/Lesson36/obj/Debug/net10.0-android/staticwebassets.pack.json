@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\RAFATI\\.nuget\\packages\\microsoft.aspnetcore.components.webview\\10.0.0\\staticwebassets\\blazor.modules.json",
+      "PackagePath": "staticwebassets\\_framework\\blazor.modules.json"
+    },
+    {
+      "Id": "C:\\Users\\RAFATI\\.nuget\\packages\\microsoft.aspnetcore.components.webview\\10.0.0\\staticwebassets\\blazor.webview.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webview.js"
+    },
+    {
+      "Id": "C:\\Users\\RAFATI\\Desktop\\Lesson36DemoMauiApp\\obj\\Debug\\net10.0-android\\scopedcss\\bundle\\Lesson36DemoMauiApp.styles.css",
+      "PackagePath": "staticwebassets\\Lesson36DemoMauiApp.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\RAFATI\\Desktop\\Lesson36DemoMauiApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\RAFATI\\Desktop\\Lesson36DemoMauiApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\RAFATI\\Desktop\\Lesson36DemoMauiApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\RAFATI\\Desktop\\Lesson36DemoMauiApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "obj\\Debug\\net10.0-android\\staticwebassets\\msbuild.Lesson36DemoMauiApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net10.0-android\\staticwebassets\\msbuild.Lesson36DemoMauiApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net10.0-android\\staticwebassets\\msbuild.build.Lesson36DemoMauiApp.props",
+      "PackagePath": "build\\Lesson36DemoMauiApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net10.0-android\\staticwebassets\\msbuild.buildMultiTargeting.Lesson36DemoMauiApp.props",
+      "PackagePath": "buildMultiTargeting\\Lesson36DemoMauiApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net10.0-android\\staticwebassets\\msbuild.buildTransitive.Lesson36DemoMauiApp.props",
+      "PackagePath": "buildTransitive\\Lesson36DemoMauiApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
