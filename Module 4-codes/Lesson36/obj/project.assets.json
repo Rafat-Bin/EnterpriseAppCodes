@@ -38066,11 +38066,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RAFATI\\Desktop\\Lesson36DemoMauiApp\\Lesson36DemoMauiApp.csproj",
+      "projectUniqueName": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson36\\Lesson36DemoMauiApp.csproj",
       "projectName": "Lesson36DemoMauiApp",
-      "projectPath": "C:\\Users\\RAFATI\\Desktop\\Lesson36DemoMauiApp\\Lesson36DemoMauiApp.csproj",
+      "projectPath": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson36\\Lesson36DemoMauiApp.csproj",
       "packagesPath": "C:\\Users\\RAFATI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RAFATI\\Desktop\\Lesson36DemoMauiApp\\obj\\",
+      "outputPath": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson36\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

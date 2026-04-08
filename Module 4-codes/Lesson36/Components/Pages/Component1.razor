@@ -1,0 +1,13 @@
+﻿@page "/d"
+
+<input value="@name" />
+<p>Hello @name</p>
+
+
+<input @bind="name" />
+<p>Hello @name</p>
+
+
+@code{
+    string name = "bin";
+}

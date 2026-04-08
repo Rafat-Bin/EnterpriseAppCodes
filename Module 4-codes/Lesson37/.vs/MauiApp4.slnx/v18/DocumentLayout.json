@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson37\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9DBE91-A643-45A5-C005-8435505BE49F}|MauiApp4\\MauiApp4.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 4-codes\\lesson37\\mauiapp4\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE9DBE91-A643-45A5-C005-8435505BE49F}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9DBE91-A643-45A5-C005-8435505BE49F}|MauiApp4\\MauiApp4.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 4-codes\\lesson37\\mauiapp4\\components\\pages\\productdetail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE9DBE91-A643-45A5-C005-8435505BE49F}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\components\\pages\\productdetail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9DBE91-A643-45A5-C005-8435505BE49F}|MauiApp4\\MauiApp4.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 4-codes\\lesson37\\mauiapp4\\components\\pages\\productlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE9DBE91-A643-45A5-C005-8435505BE49F}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\components\\pages\\productlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9DBE91-A643-45A5-C005-8435505BE49F}|MauiApp4\\MauiApp4.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 4-codes\\lesson37\\mauiapp4\\services\\mockproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9DBE91-A643-45A5-C005-8435505BE49F}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\services\\mockproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9DBE91-A643-45A5-C005-8435505BE49F}|MauiApp4\\MauiApp4.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 4-codes\\lesson37\\mauiapp4\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9DBE91-A643-45A5-C005-8435505BE49F}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9DBE91-A643-45A5-C005-8435505BE49F}|MauiApp4\\MauiApp4.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 4-codes\\lesson37\\mauiapp4\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9DBE91-A643-45A5-C005-8435505BE49F}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9DBE91-A643-45A5-C005-8435505BE49F}|MauiApp4\\MauiApp4.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 4-codes\\lesson37\\mauiapp4\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9DBE91-A643-45A5-C005-8435505BE49F}|MauiApp4\\MauiApp4.csproj|solutionrelative:mauiapp4\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:469269523:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:202627798:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson37\\MauiApp4\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "MauiApp4\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson37\\MauiApp4\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "MauiApp4\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAsAAABAAQAAAAARwBgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-07T23:58:52.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson37\\MauiApp4\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiApp4\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson37\\MauiApp4\\MauiProgram.cs",
+              "RelativeToolTip": "MauiApp4\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T21:36:38.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDetail.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson37\\MauiApp4\\Components\\Pages\\ProductDetail.razor",
+              "RelativeDocumentMoniker": "MauiApp4\\Components\\Pages\\ProductDetail.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson37\\MauiApp4\\Components\\Pages\\ProductDetail.razor",
+              "RelativeToolTip": "MauiApp4\\Components\\Pages\\ProductDetail.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-04T21:36:04.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductList.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson37\\MauiApp4\\Components\\Pages\\ProductList.razor",
+              "RelativeDocumentMoniker": "MauiApp4\\Components\\Pages\\ProductList.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson37\\MauiApp4\\Components\\Pages\\ProductList.razor",
+              "RelativeToolTip": "MauiApp4\\Components\\Pages\\ProductList.razor",
+              "ViewState": "AgIAABkAAABAzszMzAwswCYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-04T21:36:03.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MockProductService.cs",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson37\\MauiApp4\\Services\\MockProductService.cs",
+              "RelativeDocumentMoniker": "MauiApp4\\Services\\MockProductService.cs",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson37\\MauiApp4\\Services\\MockProductService.cs",
+              "RelativeToolTip": "MauiApp4\\Services\\MockProductService.cs",
+              "ViewState": "AgIAAAkAAACANDMzM7MYwBQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T21:35:03.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson37\\MauiApp4\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "MauiApp4\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson37\\MauiApp4\\Services\\IProductService.cs",
+              "RelativeToolTip": "MauiApp4\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T21:35:02.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson37\\MauiApp4\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MauiApp4\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson37\\MauiApp4\\Models\\Product.cs",
+              "RelativeToolTip": "MauiApp4\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T21:35:00.601Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

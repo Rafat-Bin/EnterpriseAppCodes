@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PMnu/qwJwkY=",
+  "dgSpecHash": "5pLVt+8RBeM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\RAFATI\\Desktop\\Lesson36DemoMauiApp\\Lesson36DemoMauiApp.csproj",
+  "projectFilePath": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson36\\Lesson36DemoMauiApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RAFATI\\.nuget\\packages\\googlegson\\2.13.1.1\\googlegson.2.13.1.1.nupkg.sha512",
     "C:\\Users\\RAFATI\\.nuget\\packages\\microsoft.aspnetcore.authorization\\10.0.0\\microsoft.aspnetcore.authorization.10.0.0.nupkg.sha512",

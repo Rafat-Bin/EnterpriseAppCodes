@@ -1,0 +1,42 @@
+﻿@page "/products/{id:int}"
+@using MauiApp4.Services
+@using MauiApp4.Models
+@inject IProductService ProductService
+@inject NavigationManager Nav
+
+<h3>Product Details</h3>
+
+@if (product is null)
+{
+    <p><em>Product not found.</em></p>
+}
+else
+{
+    <div class="card p-3">
+        <h4>@product.Name</h4>
+        <p><strong>Category:</strong> @product.Category</p>
+        <p><strong>Price:</strong> @product.Price.ToString("C")</p>
+        <p>@product.Description</p>
+
+        <button class="btn btn-secondary btn-sm" @onclick="GoBack">
+            Back to list
+        </button>
+    </div>
+}
+
+@code
+{
+    [Parameter] public int id { get; set; }
+
+    private Product? product;
+
+    protected override void OnParametersSet()
+    {
+        product = ProductService.GetProductById(id);
+    }
+
+    private void GoBack()
+    {
+        Nav.NavigateTo("/products");
+    }
+}

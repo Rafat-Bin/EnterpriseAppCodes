@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\RAFATI\\Desktop\\Lesson36DemoMauiApp\\",
+  "WorkspaceRootPath": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson36\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC0CD293-A59A-461E-796C-23CD267C1F50}|Lesson36DemoMauiApp.csproj|c:\\users\\rafati\\desktop\\lesson36demomauiapp\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BC0CD293-A59A-461E-796C-23CD267C1F50}|Lesson36DemoMauiApp.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BC0CD293-A59A-461E-796C-23CD267C1F50}|Lesson36DemoMauiApp.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 4-codes\\lesson36\\components\\pages\\component1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC0CD293-A59A-461E-796C-23CD267C1F50}|Lesson36DemoMauiApp.csproj|solutionrelative:components\\pages\\component1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC0CD293-A59A-461E-796C-23CD267C1F50}|Lesson36DemoMauiApp.csproj|c:\\users\\rafati\\desktop\\lesson36demomauiapp\\components\\pages\\bindingdemo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BC0CD293-A59A-461E-796C-23CD267C1F50}|Lesson36DemoMauiApp.csproj|solutionrelative:components\\pages\\bindingdemo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC0CD293-A59A-461E-796C-23CD267C1F50}|Lesson36DemoMauiApp.csproj|c:\\users\\rafati\\desktop\\lesson36demomauiapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BC0CD293-A59A-461E-796C-23CD267C1F50}|Lesson36DemoMauiApp.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 4-codes\\lesson36\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BC0CD293-A59A-461E-796C-23CD267C1F50}|Lesson36DemoMauiApp.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC0CD293-A59A-461E-796C-23CD267C1F50}|Lesson36DemoMauiApp.csproj|c:\\users\\rafati\\desktop\\lesson36demomauiapp\\components\\pages\\reactiveuiexample.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BC0CD293-A59A-461E-796C-23CD267C1F50}|Lesson36DemoMauiApp.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 4-codes\\lesson36\\components\\pages\\demoform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC0CD293-A59A-461E-796C-23CD267C1F50}|Lesson36DemoMauiApp.csproj|solutionrelative:components\\pages\\demoform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0CD293-A59A-461E-796C-23CD267C1F50}|Lesson36DemoMauiApp.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 4-codes\\lesson36\\components\\pages\\reactiveuiexample.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BC0CD293-A59A-461E-796C-23CD267C1F50}|Lesson36DemoMauiApp.csproj|solutionrelative:components\\pages\\reactiveuiexample.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC0CD293-A59A-461E-796C-23CD267C1F50}|Lesson36DemoMauiApp.csproj|c:\\users\\rafati\\desktop\\lesson36demomauiapp\\components\\pages\\instructordemoform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BC0CD293-A59A-461E-796C-23CD267C1F50}|Lesson36DemoMauiApp.csproj|solutionrelative:components\\pages\\instructordemoform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BC0CD293-A59A-461E-796C-23CD267C1F50}|Lesson36DemoMauiApp.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 4-codes\\lesson36\\components\\pages\\bindingdemo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC0CD293-A59A-461E-796C-23CD267C1F50}|Lesson36DemoMauiApp.csproj|solutionrelative:components\\pages\\bindingdemo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC0CD293-A59A-461E-796C-23CD267C1F50}|Lesson36DemoMauiApp.csproj|c:\\users\\rafati\\desktop\\lesson36demomauiapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BC0CD293-A59A-461E-796C-23CD267C1F50}|Lesson36DemoMauiApp.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BC0CD293-A59A-461E-796C-23CD267C1F50}|Lesson36DemoMauiApp.csproj|c:\\users\\rafati\\desktop\\sdev2301-codes\\module 4-codes\\lesson36\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC0CD293-A59A-461E-796C-23CD267C1F50}|Lesson36DemoMauiApp.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,80 +50,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ReactiveUIExample.razor",
-              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson36DemoMauiApp\\Components\\Pages\\ReactiveUIExample.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\ReactiveUIExample.razor",
-              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson36DemoMauiApp\\Components\\Pages\\ReactiveUIExample.razor",
-              "RelativeToolTip": "Components\\Pages\\ReactiveUIExample.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Component1.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson36\\Components\\Pages\\Component1.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Component1.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson36\\Components\\Pages\\Component1.razor*",
+              "RelativeToolTip": "Components\\Pages\\Component1.razor*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T03:45:57.424Z",
+              "WhenOpened": "2026-04-05T04:55:35.965Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "InstructorDemoForm.razor",
-              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson36DemoMauiApp\\Components\\Pages\\InstructorDemoForm.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\InstructorDemoForm.razor",
-              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson36DemoMauiApp\\Components\\Pages\\InstructorDemoForm.razor",
-              "RelativeToolTip": "Components\\Pages\\InstructorDemoForm.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ReactiveUIExample.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson36\\Components\\Pages\\ReactiveUIExample.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\ReactiveUIExample.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson36\\Components\\Pages\\ReactiveUIExample.razor",
+              "RelativeToolTip": "Components\\Pages\\ReactiveUIExample.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T03:45:57.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DemoForm.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson36\\Components\\Pages\\DemoForm.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\DemoForm.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson36\\Components\\Pages\\DemoForm.razor",
+              "RelativeToolTip": "Components\\Pages\\DemoForm.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-14T03:41:34.198Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Counter.razor",
-              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson36DemoMauiApp\\Components\\Pages\\Counter.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson36\\Components\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
-              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson36DemoMauiApp\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson36\\Components\\Pages\\Counter.razor",
               "RelativeToolTip": "Components\\Pages\\Counter.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T03:37:48.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T03:37:48.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BindingDemo.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson36\\Components\\Pages\\BindingDemo.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\BindingDemo.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson36\\Components\\Pages\\BindingDemo.razor",
+              "RelativeToolTip": "Components\\Pages\\BindingDemo.razor",
+              "ViewState": "AgIAAAIAAAAAZ2ZmZqYowBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T03:31:50.399Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BindingDemo.razor",
-              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson36DemoMauiApp\\Components\\Pages\\BindingDemo.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\BindingDemo.razor",
-              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson36DemoMauiApp\\Components\\Pages\\BindingDemo.razor",
-              "RelativeToolTip": "Components\\Pages\\BindingDemo.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T03:31:50.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson36DemoMauiApp\\Components\\Layout\\NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson36\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson36DemoMauiApp\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson36\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAABAmpmZmZkewBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-14T03:31:59.535Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\Lesson36DemoMauiApp\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\Lesson36DemoMauiApp\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T03:27:38.894Z"
             }
           ]
         }
