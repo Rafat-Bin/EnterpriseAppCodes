@@ -41,15 +41,19 @@ else
         }
     }
 
-    private void LoadBatteryInfo()
-    {
-        var level = DeviceService.GetBatteryLevel();
-        var source = DeviceService.GetPowerSource();
+ private void LoadBatteryInfo()
+{
+    var level = DeviceService.GetBatteryLevel();
 
-        batteryInfo = level is null
-            ? "Battery level not available on this device."
-            : $"Battery: {level}% (Source: {source})";
+    if (level is null)
+    {
+        batteryInfo = "Battery level not available on this device.";
+        return;
     }
+
+    var source = DeviceService.GetPowerSource();
+    batteryInfo = $"Battery: {level}% (Source: {source})";
+}
 
     private void LoadDeviceInfo()
     {
