@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RAFATI\\Desktop\\Lesson38\\Lesson38\\Lesson38.csproj": {}
+    "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson38\\Lesson38\\Lesson38.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RAFATI\\Desktop\\Lesson38\\Lesson38\\Lesson38.csproj": {
+    "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson38\\Lesson38\\Lesson38.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RAFATI\\Desktop\\Lesson38\\Lesson38\\Lesson38.csproj",
+        "projectUniqueName": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson38\\Lesson38\\Lesson38.csproj",
         "projectName": "Lesson38",
-        "projectPath": "C:\\Users\\RAFATI\\Desktop\\Lesson38\\Lesson38\\Lesson38.csproj",
+        "projectPath": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson38\\Lesson38\\Lesson38.csproj",
         "packagesPath": "C:\\Users\\RAFATI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RAFATI\\Desktop\\Lesson38\\Lesson38\\obj\\",
+        "outputPath": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson38\\Lesson38\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

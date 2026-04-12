@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RAFATI\\Desktop\\MauiApp2_log\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53D89A6E-C836-1D93-D28F-6073BD1BB0AC}|MauiApp2_log\\MauiApp2_log.csproj|c:\\users\\rafati\\desktop\\mauiapp2_log\\mauiapp2_log\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53D89A6E-C836-1D93-D28F-6073BD1BB0AC}|MauiApp2_log\\MauiApp2_log.csproj|solutionrelative:mauiapp2_log\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D89A6E-C836-1D93-D28F-6073BD1BB0AC}|MauiApp2_log\\MauiApp2_log.csproj|c:\\users\\rafati\\desktop\\mauiapp2_log\\mauiapp2_log\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{53D89A6E-C836-1D93-D28F-6073BD1BB0AC}|MauiApp2_log\\MauiApp2_log.csproj|solutionrelative:mauiapp2_log\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D89A6E-C836-1D93-D28F-6073BD1BB0AC}|MauiApp2_log\\MauiApp2_log.csproj|c:\\users\\rafati\\desktop\\mauiapp2_log\\mauiapp2_log\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53D89A6E-C836-1D93-D28F-6073BD1BB0AC}|MauiApp2_log\\MauiApp2_log.csproj|solutionrelative:mauiapp2_log\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D89A6E-C836-1D93-D28F-6073BD1BB0AC}|MauiApp2_log\\MauiApp2_log.csproj|c:\\users\\rafati\\desktop\\mauiapp2_log\\mauiapp2_log\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53D89A6E-C836-1D93-D28F-6073BD1BB0AC}|MauiApp2_log\\MauiApp2_log.csproj|solutionrelative:mauiapp2_log\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D89A6E-C836-1D93-D28F-6073BD1BB0AC}|MauiApp2_log\\MauiApp2_log.csproj|c:\\users\\rafati\\desktop\\mauiapp2_log\\mauiapp2_log\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53D89A6E-C836-1D93-D28F-6073BD1BB0AC}|MauiApp2_log\\MauiApp2_log.csproj|solutionrelative:mauiapp2_log\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D89A6E-C836-1D93-D28F-6073BD1BB0AC}|MauiApp2_log\\MauiApp2_log.csproj|c:\\users\\rafati\\desktop\\mauiapp2_log\\mauiapp2_log\\components\\pages\\settings.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53D89A6E-C836-1D93-D28F-6073BD1BB0AC}|MauiApp2_log\\MauiApp2_log.csproj|solutionrelative:mauiapp2_log\\components\\pages\\settings.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D89A6E-C836-1D93-D28F-6073BD1BB0AC}|MauiApp2_log\\MauiApp2_log.csproj|c:\\users\\rafati\\desktop\\mauiapp2_log\\mauiapp2_log\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53D89A6E-C836-1D93-D28F-6073BD1BB0AC}|MauiApp2_log\\MauiApp2_log.csproj|solutionrelative:mauiapp2_log\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:469269523:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:202627798:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\MauiApp2_log\\MauiApp2_log\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "MauiApp2_log\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\MauiApp2_log\\MauiApp2_log\\wwwroot\\index.html*",
+              "RelativeToolTip": "MauiApp2_log\\wwwroot\\index.html*",
+              "ViewState": "AgIAAAAAAAD4bmZmZmb0vxYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-12T05:44:36.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\MauiApp2_log\\MauiApp2_log\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "MauiApp2_log\\wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\MauiApp2_log\\MauiApp2_log\\wwwroot\\app.css*",
+              "RelativeToolTip": "MauiApp2_log\\wwwroot\\app.css*",
+              "ViewState": "AgIAAEoAAACAMTMzMzMlwGgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-12T05:37:29.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Settings.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\MauiApp2_log\\MauiApp2_log\\Components\\Pages\\Settings.razor",
+              "RelativeDocumentMoniker": "MauiApp2_log\\Components\\Pages\\Settings.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\MauiApp2_log\\MauiApp2_log\\Components\\Pages\\Settings.razor*",
+              "RelativeToolTip": "MauiApp2_log\\Components\\Pages\\Settings.razor*",
+              "ViewState": "AgIAAAAAAACgmZmZmdkhwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-12T05:30:29.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\MauiApp2_log\\MauiApp2_log\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "MauiApp2_log\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\MauiApp2_log\\MauiApp2_log\\Components\\Routes.razor",
+              "RelativeToolTip": "MauiApp2_log\\Components\\Routes.razor",
+              "ViewState": "AgIAAAwAAAAAMTMzMzP7vxUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-12T04:25:53.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\MauiApp2_log\\MauiApp2_log\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "MauiApp2_log\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\MauiApp2_log\\MauiApp2_log\\Components\\Layout\\NavMenu.razor*",
+              "RelativeToolTip": "MauiApp2_log\\Components\\Layout\\NavMenu.razor*",
+              "ViewState": "AgIAAEMAAAAANzMzM7MRwDMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-12T04:24:40.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\MauiApp2_log\\MauiApp2_log\\Components\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "MauiApp2_log\\Components\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\MauiApp2_log\\MauiApp2_log\\Components\\Pages\\Login.razor",
+              "RelativeToolTip": "MauiApp2_log\\Components\\Pages\\Login.razor",
+              "ViewState": "AgIAAAwAAABAmpmZmRkWwBoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-12T04:23:32.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\MauiApp2_log\\MauiApp2_log\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "MauiApp2_log\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\MauiApp2_log\\MauiApp2_log\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "MauiApp2_log\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-12T04:22:39.582Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

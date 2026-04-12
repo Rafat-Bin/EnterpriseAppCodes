@@ -21,18 +21,18 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Lesson38
 build_property.RootNamespace = Lesson38
-build_property.ProjectDir = C:\Users\RAFATI\Desktop\Lesson38\Lesson38\
+build_property.ProjectDir = C:\Users\RAFATI\Desktop\SDEV2301-Codes\Module 4-codes\Lesson38\Lesson38\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\RAFATI\Desktop\Lesson38\Lesson38
+build_property.MSBuildProjectDirectory = C:\Users\RAFATI\Desktop\SDEV2301-Codes\Module 4-codes\Lesson38\Lesson38
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/RAFATI/Desktop/Lesson38/Lesson38/App.xaml]
+[C:/Users/RAFATI/Desktop/SDEV2301-Codes/Module 4-codes/Lesson38/Lesson38/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Lesson38.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
@@ -43,7 +43,7 @@ build_metadata.AdditionalFiles.EnableDiagnostics =
 build_metadata.AdditionalFiles.LineInfo = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RAFATI/Desktop/Lesson38/Lesson38/MainPage.xaml]
+[C:/Users/RAFATI/Desktop/SDEV2301-Codes/Module 4-codes/Lesson38/Lesson38/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Lesson38.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
@@ -54,7 +54,7 @@ build_metadata.AdditionalFiles.EnableDiagnostics =
 build_metadata.AdditionalFiles.LineInfo = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RAFATI/Desktop/Lesson38/Lesson38/Components/Pages/Counter.razor]
+[C:/Users/RAFATI/Desktop/SDEV2301-Codes/Module 4-codes/Lesson38/Lesson38/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
@@ -65,7 +65,7 @@ build_metadata.AdditionalFiles.EnableDiagnostics =
 build_metadata.AdditionalFiles.LineInfo = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RAFATI/Desktop/Lesson38/Lesson38/Components/Pages/DeviceFeatureDetail.razor]
+[C:/Users/RAFATI/Desktop/SDEV2301-Codes/Module 4-codes/Lesson38/Lesson38/Components/Pages/DeviceFeatureDetail.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEZXZpY2VGZWF0dXJlRGV0YWlsLnJhem9y
@@ -76,7 +76,7 @@ build_metadata.AdditionalFiles.EnableDiagnostics =
 build_metadata.AdditionalFiles.LineInfo = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RAFATI/Desktop/Lesson38/Lesson38/Components/Pages/DeviceFeaturesList.razor]
+[C:/Users/RAFATI/Desktop/SDEV2301-Codes/Module 4-codes/Lesson38/Lesson38/Components/Pages/DeviceFeaturesList.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEZXZpY2VGZWF0dXJlc0xpc3QucmF6b3I=
@@ -87,7 +87,7 @@ build_metadata.AdditionalFiles.EnableDiagnostics =
 build_metadata.AdditionalFiles.LineInfo = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RAFATI/Desktop/Lesson38/Lesson38/Components/Pages/DeviceInfoDemo.razor]
+[C:/Users/RAFATI/Desktop/SDEV2301-Codes/Module 4-codes/Lesson38/Lesson38/Components/Pages/DeviceInfoDemo.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEZXZpY2VJbmZvRGVtby5yYXpvcg==
@@ -98,7 +98,7 @@ build_metadata.AdditionalFiles.EnableDiagnostics =
 build_metadata.AdditionalFiles.LineInfo = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RAFATI/Desktop/Lesson38/Lesson38/Components/Pages/Home.razor]
+[C:/Users/RAFATI/Desktop/SDEV2301-Codes/Module 4-codes/Lesson38/Lesson38/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
@@ -109,7 +109,7 @@ build_metadata.AdditionalFiles.EnableDiagnostics =
 build_metadata.AdditionalFiles.LineInfo = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RAFATI/Desktop/Lesson38/Lesson38/Components/Pages/NotFound.razor]
+[C:/Users/RAFATI/Desktop/SDEV2301-Codes/Module 4-codes/Lesson38/Lesson38/Components/Pages/NotFound.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xOb3RGb3VuZC5yYXpvcg==
@@ -120,7 +120,7 @@ build_metadata.AdditionalFiles.EnableDiagnostics =
 build_metadata.AdditionalFiles.LineInfo = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RAFATI/Desktop/Lesson38/Lesson38/Components/Pages/Weather.razor]
+[C:/Users/RAFATI/Desktop/SDEV2301-Codes/Module 4-codes/Lesson38/Lesson38/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
@@ -131,7 +131,7 @@ build_metadata.AdditionalFiles.EnableDiagnostics =
 build_metadata.AdditionalFiles.LineInfo = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RAFATI/Desktop/Lesson38/Lesson38/Components/Routes.razor]
+[C:/Users/RAFATI/Desktop/SDEV2301-Codes/Module 4-codes/Lesson38/Lesson38/Components/Routes.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
@@ -142,7 +142,7 @@ build_metadata.AdditionalFiles.EnableDiagnostics =
 build_metadata.AdditionalFiles.LineInfo = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RAFATI/Desktop/Lesson38/Lesson38/Components/_Imports.razor]
+[C:/Users/RAFATI/Desktop/SDEV2301-Codes/Module 4-codes/Lesson38/Lesson38/Components/_Imports.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
@@ -153,7 +153,7 @@ build_metadata.AdditionalFiles.EnableDiagnostics =
 build_metadata.AdditionalFiles.LineInfo = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/RAFATI/Desktop/Lesson38/Lesson38/Components/Layout/MainLayout.razor]
+[C:/Users/RAFATI/Desktop/SDEV2301-Codes/Module 4-codes/Lesson38/Lesson38/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
@@ -164,7 +164,7 @@ build_metadata.AdditionalFiles.EnableDiagnostics =
 build_metadata.AdditionalFiles.LineInfo = 
 build_metadata.AdditionalFiles.CssScope = b-9uzoywj47e
 
-[C:/Users/RAFATI/Desktop/Lesson38/Lesson38/Components/Layout/NavMenu.razor]
+[C:/Users/RAFATI/Desktop/SDEV2301-Codes/Module 4-codes/Lesson38/Lesson38/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==

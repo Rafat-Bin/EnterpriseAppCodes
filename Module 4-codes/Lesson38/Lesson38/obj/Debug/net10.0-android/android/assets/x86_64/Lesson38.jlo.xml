@@ -1,0 +1,15 @@
+<api>
+  <jcw-types>
+    <type name="MainActivity" package="crc6443a6dc845f04346f" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiAppCompatActivity" partial_assembly_qualified_name="Lesson38.MainActivity, Lesson38">
+      <constructors>
+        <constructor name="MainActivity" method="n_.ctor:()V:" jni_signature="()V" managed_parameters="" retval="void" is_dynamically_registered="True" />
+        <constructor name="MainActivity" method="n_.ctor:(I)V:" jni_signature="(I)V" managed_parameters="System.Int32, System.Private.CoreLib" params="int p0" retval="void" is_dynamically_registered="True" super_call="p0" activate_call="p0" />
+      </constructors>
+    </type>
+    <type name="MainApplication" package="crc6443a6dc845f04346f" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiApplication" is_application="True" partial_assembly_qualified_name="Lesson38.MainApplication, Lesson38" application_constructor="MainApplication" />
+  </jcw-types>
+  <acw-types partial-assembly-name="Lesson38" module-name="Lesson38.dll">
+    <type assembly-qualified-name="Lesson38.MainActivity, Lesson38, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="lesson38.MainActivity" java-key="crc6443a6dc845f04346f.MainActivity" managed-key="Lesson38.MainActivity" partial-assembly-qualified-name="Lesson38.MainActivity, Lesson38" />
+    <type assembly-qualified-name="Lesson38.MainApplication, Lesson38, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="lesson38.MainApplication" java-key="crc6443a6dc845f04346f.MainApplication" managed-key="Lesson38.MainApplication" partial-assembly-qualified-name="Lesson38.MainApplication, Lesson38" />
+  </acw-types>
+</api>

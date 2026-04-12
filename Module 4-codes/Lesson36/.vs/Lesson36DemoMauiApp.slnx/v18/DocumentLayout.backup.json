@@ -54,9 +54,9 @@
               "Title": "Component1.razor",
               "DocumentMoniker": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson36\\Components\\Pages\\Component1.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Component1.razor",
-              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson36\\Components\\Pages\\Component1.razor*",
-              "RelativeToolTip": "Components\\Pages\\Component1.razor*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\RAFATI\\Desktop\\SDEV2301-Codes\\Module 4-codes\\Lesson36\\Components\\Pages\\Component1.razor",
+              "RelativeToolTip": "Components\\Pages\\Component1.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-05T04:55:35.965Z",
               "EditorCaption": ""
@@ -83,8 +83,7 @@
               "RelativeToolTip": "Components\\Pages\\DemoForm.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T03:41:34.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T03:41:34.198Z"
             },
             {
               "$type": "Document",
@@ -120,8 +119,7 @@
               "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAA4AAABAmpmZmZkewBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T03:31:59.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T03:31:59.535Z"
             }
           ]
         }
